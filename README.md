@@ -31,13 +31,13 @@ Resource usage will vary depending on input dataset size.
 
 ### Step 1: Build a Metabolite Network (Example: *Weissella paramesenteroides*)
 
-1. **Cluster the metabolite `mz` values from the metabolomics dataset**
+1. **Group the `mz` values from the metabolomics**
 
    ```bash
    python grouped_metabolites.py mz.txt
    ```
 
-   This generates a clustered list of similar `mz` values. Extract the first column for downstream use:
+   This generates a grouped list of similar `mz` values. Extract the first column for downstream use:
 
    ```bash
    python grouped_metabolites.py mz.txt | awk '{print $1}' > mz_filter.txt
@@ -46,7 +46,7 @@ Resource usage will vary depending on input dataset size.
 2. **Prepare the required input files**
 
    - `adduct_file.txt`: Ion adduct forms (e.g., +H, +Na, etc.)
-   - `central.txt`: Central m/z values to define pathway anchors
+   - `central.txt`: Anchor m/z values (central m/z values)
    - `all_reaction.xls`: Reaction database
 
 3. **Construct the metabolite network**
@@ -57,10 +57,10 @@ Resource usage will vary depending on input dataset size.
        --end_weight 117.079 \
        central.txt mz_filter.txt all_reaction.xls adduct_file.txt > wp_network.txt
    ```
-
+- start_weight and end_weight are the start and end m/z values of the reaction, both drawn from the central m/z values listed in central.txt.
 ---
 
-### Step 2: Map Metabolite Network to Gene Clusters
+### Step 2: Map Metabolic Network to Gene Clusters
 
 1. **Standardize gene names based on genome annotation**
 
