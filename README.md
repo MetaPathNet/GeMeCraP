@@ -46,6 +46,11 @@ Resource usage will vary depending on input dataset size.
 2. **Prepare the required input files**
 
    - `adduct_file.txt`: Ion adduct forms (e.g., +H, +Na, etc.)
+   ```
+   +H      1.007825
+   +Na     22.98977
+   +NH4    18.034374
+   ```
    - `central.txt`: Anchor m/z values (central m/z values)
    - `all_reaction.xls`: Reaction database
 
@@ -55,7 +60,7 @@ Resource usage will vary depending on input dataset size.
    python network_construct_adduct.py \
        --start_weight 118.0635457 \
        --end_weight 117.079 \
-       central.txt mz_filter.txt all_reaction.xls adduct_file.txt > wp_network.txt
+       central.txt mz_filter.txt all_reaction.xls adduct_file.txt --output wp_network.txt
    ```
 - start_weight and end_weight are the start and end m/z values of the reaction, both drawn from the central m/z values listed in central.txt.
 ---
@@ -64,7 +69,7 @@ Resource usage will vary depending on input dataset size.
 
 1. **Standardize gene names based on genome annotation**
 
-   Gene clusters are identified based on gene proximity. By default, genes on the same contig (e.g., `contig_1`, `contig_2`) are considered neighbors, allowing for up to 3 intervening genes. If the gene annotations use alternative naming (e.g., `MRS000002`), you can reformat them as follows:
+   Gene clusters are identified based on gene proximity. By default, genes on the same contig (e.g., `contig_1`, `contig_2`) are considered neighbors, allowing for up to 1 intervening genes. If the gene annotations use alternative naming (e.g., `MRS000002`), you can reformat them as follows:
 
    ```bash
    python extract_protein_info.py wp.gff wp_gene_start_end.txt
