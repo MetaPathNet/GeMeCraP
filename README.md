@@ -45,7 +45,7 @@ Resource usage will vary depending on input dataset size.
 
 2. **Prepare the required input files**
 
-   - `adduct_file.txt`: Ion adduct forms (e.g., +H, +Na, etc.)
+   - `adduct_file.txt`: Ion adduct forms (e.g., +H, +Na, etc.), W.paramesenteroides is in -H model.
    ```
    +H      1.007825
    +Na     22.98977
