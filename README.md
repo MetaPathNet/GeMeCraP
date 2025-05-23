@@ -31,7 +31,23 @@ Resource usage will vary depending on input dataset size.
 
 ### Step 1: Build a Metabolite Network (Example: *Weissella paramesenteroides*)
 
-1. **Group the `mz` values from the metabolomics**
+1. **Prepare the required input files**
+
+   - `adduct_file.txt`: Ion adduct forms (e.g., +H, +Na, etc.), W.paramesenteroides is in -H model. "+" represents positive ion mode, and "–" represents negative ion mode. For example: 
+   ```
+   +H      1.007825
+   +Na     22.98977
+   +NH4    18.034374
+   ```
+   - `central.txt`: Anchor m/z values (central m/z values)
+   - `mz.txt`: The m/z value was detected, but the ionization mode remains uncertain.
+   - `all_reaction.xls`: Reaction database
+   - `wp.kegg`: KEGG annotation file. In the KEGG annotation file, a single gene may be associated with multiple KEGG Orthology (KO) terms. For example:
+   ```
+   contig1_1727 K05826 lysW; alpha-aminoadipate/glutamate carrier protein LysW
+   contig1_1727 K06193 phnA; protein PhnA
+   ```
+2. **Group the `mz` values from the metabolomics**
 
    ```bash
    python grouped_metabolites.py mz.txt
@@ -41,22 +57,6 @@ Resource usage will vary depending on input dataset size.
 
    ```bash
    python grouped_metabolites.py mz.txt | awk '{print $1}' > mz_filter.txt
-   ```
-
-2. **Prepare the required input files**
-
-   - `adduct_file.txt`: Ion adduct forms (e.g., +H, +Na, etc.), W.paramesenteroides is in -H model. "+" represents positive ion mode, and "–" represents negative ion mode. 
-   ```
-   +H      1.007825
-   +Na     22.98977
-   +NH4    18.034374
-   ```
-   - `central.txt`: Anchor m/z values (central m/z values)
-   - `all_reaction.xls`: Reaction database
-   - `wp.kegg`: KEGG annotation file. In the KEGG annotation file, a single gene may be associated with multiple KEGG Orthology (KO) terms. For example:
-   ```
-   contig1_1727 K05826 lysW; alpha-aminoadipate/glutamate carrier protein LysW
-   contig1_1727 K06193 phnA; protein PhnA
    ```
 3. **Construct the metabolite network**
 
