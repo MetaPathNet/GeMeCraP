@@ -53,7 +53,11 @@ Resource usage will vary depending on input dataset size.
    ```
    - `central.txt`: Anchor m/z values (central m/z values)
    - `all_reaction.xls`: Reaction database
-
+   - `wp.kegg`: KEGG annotation file. In the KEGG annotation file, a single gene may be associated with multiple KEGG Orthology (KO) terms. For example:
+   ```
+   contig1_1727 K05826 lysW; alpha-aminoadipate/glutamate carrier protein LysW
+   contig1_1727 K06193 phnA; protein PhnA
+   ```
 3. **Construct the metabolite network**
 
    ```bash
