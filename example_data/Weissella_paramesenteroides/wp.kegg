@@ -1,0 +1,2138 @@
+GeneID	KO/Gene_ID	KEGG_GENE_NAME	NR_tophit_name
+MRS000001	K02313	dnaA	chromosomal replication initiator protein DnaA 
+MRS000002	K02338	dnaN	DNA polymerase III subunit beta 
+MRS000003	K14761	ybcJ	S4 domain-containing protein YaaA 
+MRS000004	K03629	recF	DNA replication and repair protein RecF 
+MRS000005	K02470	gyrB	DNA topoisomerase (ATP-hydrolyzing) subunit B 
+MRS000006	K02469	gyrA	DNA gyrase subunit A 
+MRS000007	K08659	pepDA, pepDB	peptidase, C69 family 
+MRS000008	_	_	hypothetical protein WTH01_02560 
+MRS000009	K03366	butA, budC	diacetyl reductase ((R)-acetoin forming) 
+MRS000010	K02071	metN	ABC transporter, ATP-binding protein 
+MRS000011	K02072	metI	ABC transporter permease 
+MRS000012	K02073	metQ	metal ABC transporter substrate-binding protein 
+MRS000013	_	_	transcriptional regulator, TetR family 
+MRS000014	K06994	K06994	MMPL family protein 
+MRS000015	_	_	hypothetical protein CO680_08085 
+MRS000016	_	_	helix-turn-helix transcriptional regulator 
+MRS000017	_	_	GNAT family N-acetyltransferase 
+MRS000018	K19005	ltaS	arylsulfatase 
+MRS000019	_	_	MerR family transcriptional regulator 
+MRS000020	K00054	mvaA	hydroxymethylglutaryl-CoA reductase, degradative 
+MRS000021	_	_	hypothetical protein HMPREF0877_0797 
+MRS000022	K12410	npdA	NAD-dependent protein deacylase 
+MRS000023	_	_	hypothetical protein CIT14_21690, partial 
+MRS000024	_	_	Uncharacterised protein 
+MRS000025	_	_	hypothetical protein IV69_GL000657 
+MRS000026	_	_	hypothetical protein A5881_001665 
+MRS000027	_	_	transcriptional regulator, MarR family 
+MRS000028	K01874	MARS, metG	methionine--tRNA ligase 
+MRS000029	K24163	nhaK	transporter, CPA2 family 
+MRS000030	K03424	tatD	hydrolase, TatD family 
+MRS000031	K05985	rnmV	ribonuclease M5 
+MRS000032	K02528	ksgA	dimethyladenosine transferase 
+MRS000033	K03699	tlyC	hypothetical protein HMPREF0877_1947 
+MRS000034	K03699	tlyC	HlyC/CorC family transporter 
+MRS000035	_	_	hypothetical protein HMPREF0877_1945 
+MRS000036	K01493	comEB	competence protein ComE 
+MRS000037	K00560	thyA, TYMS	thymidylate synthase 
+MRS000038	K01005	tagT_U_V	transcriptional regulator 
+MRS000039	_	_	multidrug-efflux transporter 
+MRS000040	_	_	beta-galactosidase LacZ 
+MRS000041	_	_	AraC family transcriptional regulator 
+MRS000042	K02044	phnD	phosphate/phosphite/phosphonate ABC transporter, periplasmic binding protein 
+MRS000043	K02041	phnC	phosphonate ABC transporter ATP-binding protein 
+MRS000044	K02042	phnE	phosphonate ABC transporter, permease protein PhnE 
+MRS000045	K02042	phnE	phosphonate ABC transporter, permease protein PhnE 
+MRS000046	K01119	cpdB	5'-nucleotidase, C-terminal domain protein 
+MRS000047	_	_	elongation factor G-binding protein 
+MRS000048	_	_	PAP2 family protein 
+MRS000049	_	_	hypothetical protein HMPREF0877_1934 
+MRS000050	K07485	K07485	ISL3 family transposase 
+MRS000051	_	_	hypothetical protein HMPREF0877_1933 
+MRS000052	_	_	hypothetical protein HMPREF0877_1932 
+MRS000053	_	_	hypothetical protein LFYK43_19990 
+MRS000054	K07150	K07150	hypothetical protein HMPREF0877_1931 
+MRS000055	K03973	pspC	PspC domain-containing protein 
+MRS000056	K10947	padR	PadR family transcriptional regulator 
+MRS000057	_	_	hypothetical protein HMPREF0877_1928 
+MRS000058	_	_	hypothetical protein HMPREF0877_1927 
+MRS000059	K01246	tag	DNA-3-methyladenine glycosylase I 
+MRS000060	K07058	K07058	YihY family protein 
+MRS000061	_	_	LysM domain protein 
+MRS000062	K18926	lmrB	transporter, major facilitator family protein 
+MRS000063	_	_	acetyltransferase, GNAT family 
+MRS000064	_	_	glutathione reductase 
+MRS000065	_	_	hypothetical protein FFIC_230430 
+MRS000066	_	_	TetR family transcriptional regulator 
+MRS000067	K19055	prdX, proX	YbaK/proline--tRNA ligase associated domain protein 
+MRS000068	_	_	acetyltransferase, GNAT family 
+MRS000069	K03298	TC.DME	putative membrane protein 
+MRS000070	K02031	ddpD	ABC transporter ATP-binding protein 
+MRS000071	K02032	ddpF	ABC transporter, ATP-binding protein 
+MRS000072	K02033	ABC.PE.P	ABC transporter permease 
+MRS000073	_	_	ABC transporter, permease protein 
+MRS000074	_	_	oligopeptide ABC transporter substrate-binding protein 
+MRS000075	_	_	alpha/beta hydrolase 
+MRS000076	_	_	single-stranded DNA-binding protein 
+MRS000077	_	_	type 1 glutamine amidotransferase 
+MRS000078	_	_	GDSL-like protein 
+MRS000079	K21745	adhR	MerR family transcriptional regulator 
+MRS000080	_	_	hypothetical protein HMPREF0877_1909 
+MRS000081	K01607	pcaC	carboxymuconolactone decarboxylase family protein 
+MRS000082	_	_	cupin domain protein 
+MRS000083	_	_	aldo/keto reductase 
+MRS000084	_	_	transcriptional regulator, TetR family 
+MRS000085	K18926	lmrB	multidrug MFS-type transporter 
+MRS000086	_	_	DUF4811 domain-containing protein 
+MRS000087	_	_	hypothetical protein LFYK43_14880 
+MRS000088	_	_	hypothetical protein LFYK43_14890 
+MRS000089	_	_	hypothetical protein LFYK43_14900 
+MRS000090	K00826	E2.6.1.42, ilvE	Branched-chain amino acid aminotransferase 
+MRS000091	K00077	panE, apbA	2-dehydropantoate 2-reductase 
+MRS000092	K22522	LOG	decarboxylase family protein 
+MRS000093	_	_	TetR family transcriptional regulator 
+MRS000094	_	_	oxidoreductase 
+MRS000095	_	_	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase 
+MRS000096	K10680	nemA	NADH-dependent flavin oxidoreductase 
+MRS000097	K00158	spxB, poxL	pyruvate oxidase 
+MRS000098	_	_	transcriptional regulator 
+MRS000099	K19267	qorB	NmrA family protein 
+MRS000100	_	_	hypothetical protein HMPREF0877_1898 
+MRS000101	_	_	N-acetyltransferase 
+MRS000102	_	_	Cof-type HAD-IIB family hydrolase 
+MRS000103	_	_	catabolite control protein B 
+MRS000104	_	_	YbaK/proline--tRNA ligase associated domain protein 
+MRS000105	K03828	yjgM	acetyltransferase, GNAT family 
+MRS000106	_	_	bacterial regulatory s, tetR family protein 
+MRS000107	_	_	cysteine hydrolase 
+MRS000108	_	_	drug resistance transporter, EmrB/QacA family protein 
+MRS000109	_	_	DUF3290 domain-containing protein 
+MRS000110	_	_	DUF421 domain-containing protein 
+MRS000111	_	_	Membrane protein involved in the export of O-antigen and teichoic acid 
+MRS000112	K24180	mleP	transporter, auxin efflux carrier (AEC) family protein 
+MRS000113	K02068	STAR1, fetA	ABC transporter, ATP-binding protein 
+MRS000114	K02069	STAR2, fetB	iron export ABC transporter permease subunit FetB 
+MRS000115	_	_	heavy metal translocating P-type ATPase 
+MRS000116	_	_	CBS domain-containing protein 
+MRS000117	K03424	tatD	hydrolase, TatD family 
+MRS000118	_	_	hypothetical protein HMPREF0877_1884 
+MRS000119	_	_	cyclopentanol dehydrogenase 
+MRS000120	_	_	TetR family transcriptional regulator 
+MRS000121	K01421	yhgE	YhgE/Pip domain protein 
+MRS000122	K03781	katE, CAT, catB, srpA	catalase 
+MRS000123	K05794	terC	integral membrane protein, TerC family 
+MRS000124	_	_	Amidase 
+MRS000125	K01056	PTH1, PTRH1, pth, spoVC	aminoacyl-tRNA hydrolase 
+MRS000126	K03723	mfd	transcription-repair coupling factor 
+MRS000127	K03328	TC.PST	polysaccharide biosynthesis protein 
+MRS000128	K04762	hslR	RNA-binding S4 domain-containing protein 
+MRS000129	K13052	divIC, divA	putative cell division protein FtsL 
+MRS000130	K04075	tilS, mesJ	tRNA(Ile)-lysidine synthetase 
+MRS000131	K00760	hprT, hpt, HPRT1	hypoxanthine phosphoribosyltransferase 
+MRS000132	K03798	ftsH, hflB	ATP-dependent metallopeptidase HflB 
+MRS000133	K04083	hslO	chaperonin HslO 
+MRS000134	K04567	KARS, lysS	lysine--tRNA ligase 
+MRS000135	_	_	helix-turn-helix domain-containing protein 
+MRS000136	K07497	K07497	IS3 family transposase 
+MRS000137	_	_	hypothetical protein CIT14_21690, partial 
+MRS000138	_	_	Uncharacterised protein 
+MRS000139	_	_	hypothetical protein IV69_GL000657 
+MRS000140	_	_	hypothetical protein A5881_001665 
+MRS000141	_	_	hypothetical protein HMPREF0877_1253 
+MRS000142	K00937	ppk1	polyphosphate kinase 1 
+MRS000143	K01524	ppx-gppA	exopolyphosphatase 
+MRS000144	_	_	hypothetical protein EWR19_07200 
+MRS000145	_	_	iron-sulfur cluster biosynthesis family protein 
+MRS000146	_	_	transglycosylase associated protein 
+MRS000147	_	_	hypothetical protein FKV78_08875 
+MRS000148	_	_	helix-turn-helix domain-containing protein 
+MRS000149	K07497	K07497	IS3 family transposase 
+MRS000150	K19337	hexR	MurR/RpiR family transcriptional regulator 
+MRS000151	K00033	PGD, gnd, gntZ	phosphogluconate dehydrogenase (decarboxylating) 
+MRS000152	_	_	gluconate kinase 
+MRS000153	K01866	YARS, tyrS	tyrosine--tRNA ligase 
+MRS000154	K15580	oppA, mppA	peptide ABC transporter substrate-binding protein 
+MRS000155	K02033	ABC.PE.P	ABC transporter, permease protein 
+MRS000156	K02034	ABC.PE.P1	ABC transporter permease 
+MRS000157	_	_	hypothetical protein DIS13_06075 
+MRS000158	_	_	ABC transporter ATP-binding protein 
+MRS000159	K02032	ddpF	ABC transporter ATP-binding protein 
+MRS000160	_	_	VanZ family protein 
+MRS000161	K07035	K07035	PTS sugar transporter subunit IIC 
+MRS000162	_	_	thioredoxin family protein 
+MRS000163	K08968	msrC	GAF domain-containing protein 
+MRS000164	_	_	pyridine nucleotide-disulfide oxidoreductase 
+MRS000165	_	_	MFS transporter 
+MRS000166	K16169	pbuX	purine permease 
+MRS000167	K03816	xpt	xanthine phosphoribosyltransferase 
+MRS000168	K00020	HIBADH, mmsB	NAD(P)-dependent oxidoreductase 
+MRS000169	K00712	tagE	glycosyltransferase, group 1 family protein 
+MRS000170	K00712	tagE	glycosyltransferase, group 1 family protein 
+MRS000171	K03322	mntH	metal ion transporter, metal ion (Mn2+/Fe2+) transporter (Nramp) family 
+MRS000172	K01760	metC	Cys/Met metabolism PLP-dependent enzyme 
+MRS000173	_	_	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain protein 
+MRS000174	K01710	rfbB, rmlB, rffG	dTDP-glucose 4,6-dehydratase 
+MRS000175	_	_	aldo/keto reductase 
+MRS000176	_	_	hypothetical protein GA0061075_10461 
+MRS000177	K07497	K07497	IS3 family transposase 
+MRS000178	_	_	transposase 
+MRS000179	_	_	VWA domain-containing protein 
+MRS000180	_	_	hypothetical protein LPO01_13610 
+MRS000181	_	_	cell wall surface anchor protein 
+MRS000182	K07284	srtA	class C sortase 
+MRS000183	_	_	Sortase A, LPXTG specific 
+MRS000184	K05520	pfpI	intracellular protease, PfpI family 
+MRS000185	_	_	hypothetical protein HMPREF0877_1198 
+MRS000186	K00864	glpK, GK	glycerol kinase GlpK 
+MRS000187	K00105	E1.1.3.21	FAD dependent oxidoreductase 
+MRS000188	_	_	triose-phosphate isomerase 
+MRS000189	_	_	MIP channel s family protein 
+MRS000190	K03826	yiaC	GNAT family N-acetyltransferase 
+MRS000191	_	_	_
+MRS000192	K07052	K07052	hypothetical protein C5L34_001817 
+MRS000193	_	_	hypothetical protein CBP76_00005 
+MRS000194	_	_	hypothetical protein BL295_15670 
+MRS000195	_	_	hypothetical protein CP356_08440 
+MRS000196	_	_	N-acetyltransferase 
+MRS000197	_	_	hypothetical protein FKV77_00920 
+MRS000198	K01489	cdd, CDA	cytidine deaminase 
+MRS000199	K03930	estA	putative esterase 
+MRS000200	_	_	helix-turn-helix domain-containing protein 
+MRS000201	_	_	ABC transporter, solute-binding protein 
+MRS000202	_	_	sugar ABC transporter permease 
+MRS000203	K02026	ABC.MS.P1	ABC transporter, permease protein 
+MRS000204	_	_	hypothetical protein HMPREF0877_1184 
+MRS000205	_	_	glycosyl hydrolase family 2, sugar binding domain protein 
+MRS000206	K10112	msmX, msmK, malK, sugC, ggtA, msiK	sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC 
+MRS000207	_	_	LacI family transcriptional regulator 
+MRS000208	K12308	bgaB, lacA	beta-galactosidase 
+MRS000209	K16209	lacS, galP, rafP	PTS sugar transporter subunit IIA 
+MRS000210	_	_	hypothetical protein 
+MRS000211	K00789	metK, MAT	methionine adenosyltransferase 
+MRS000212	_	_	hypothetical protein WTH01_16120 
+MRS000213	K00158	spxB, poxL	pyruvate oxidase 
+MRS000214	_	_	hypothetical protein HMPREF0877_1173 
+MRS000215	_	_	hypothetical protein HMPREF0877_1172 
+MRS000216	K01624	FBA, fbaA	fructose-bisphosphate aldolase 
+MRS000217	_	_	hypothetical protein HMPREF0877_1170 
+MRS000218	_	_	DUF4767 domain-containing protein 
+MRS000219	K07485	K07485	ISL3 family transposase 
+MRS000220	K07104	catE	glyoxalase family protein 
+MRS000221	K18889	mdlA, smdA	ATP-binding cassette domain-containing protein 
+MRS000222	K18890	mdlB, smdB	ABC transporter ATP-binding protein 
+MRS000223	K00432	gpx, btuE, bsaA	glutathione peroxidase 
+MRS000224	K00004	BDH, butB	2,3-butanediol dehydrogenase 
+MRS000225	K19784	chrR, NQR	NAD(P)H-dependent oxidoreductase 
+MRS000226	K03449	MFS.CP	MFS transporter 
+MRS000227	_	_	hypothetical protein HMPREF0877_1161 
+MRS000228	K03215	rumA	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD 
+MRS000229	_	_	rRNA methyltransferase 
+MRS000230	K19302	bcrC	phosphatase PAP2 family protein 
+MRS000231	K01869	LARS, leuS	leucine--tRNA ligase 
+MRS000232	_	_	glycosyltransferase family 4 protein 
+MRS000233	_	_	polysaccharide biosynthesis protein 
+MRS000234	K12554	murN	aminoacyltransferase 
+MRS000235	K06209	pheB	UPF0735 ACT domain-containing protein 
+MRS000236	K00872	thrB	homoserine kinase 
+MRS000237	K01733	thrC	threonine synthase 
+MRS000238	K00003	hom	homoserine dehydrogenase 
+MRS000239	_	_	magnesium transporter CorA family protein 
+MRS000240	K07006	K07006	pyridoxamine 5'-phosphate oxidase family protein 
+MRS000241	_	_	hypothetical protein HMPREF0877_1147 
+MRS000242	_	_	hypothetical protein HMPREF0877_1146 
+MRS000243	K00033	PGD, gnd, gntZ	NADP-dependent phosphogluconate dehydrogenase 
+MRS000244	_	_	amino acid permease 
+MRS000245	_	_	putative dipeptidase 
+MRS000246	K16899	addB	putative ATP-dependent nuclease subunit B 
+MRS000247	K16898	addA	helicase-exonuclease AddAB subunit AddA 
+MRS000248	_	_	_
+MRS000249	_	_	MFS transporter 
+MRS000250	K00864	glpK, GK	glycerol kinase GlpK 
+MRS000251	K00036	G6PD, zwf	glucose-6-phosphate dehydrogenase 
+MRS000252	_	_	NUDIX domain-containing protein 
+MRS000253	K09685	purR	pur operon repressor 
+MRS000254	K04042	glmU	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU 
+MRS000255	K00948	PRPS, prsA	ribose-phosphate diphosphokinase 
+MRS000256	_	_	nucleoside hydrolase 
+MRS000257	K02990	RP-S6, MRPS6, rpsF	30S ribosomal protein S6 
+MRS000258	K03111	ssb	single-stranded DNA-binding protein 
+MRS000259	K02963	RP-S18, MRPS18, rpsR	30S ribosomal protein S18 
+MRS000260	_	_	hypothetical protein WHE01_17510 
+MRS000261	K01588	purE	5-(carboxyamino)imidazole ribonucleotide mutase 
+MRS000262	K01589	purK	5-(carboxyamino)imidazole ribonucleotide synthase 
+MRS000263	K01923	purC	phosphoribosylaminoimidazolesuccinocarboxamide synthase 
+MRS000264	K23264	purS	phosphoribosylformylglycinamidine synthase subunit PurS 
+MRS000265	K23265	purQ	phosphoribosylformylglycinamidine synthase subunit PurQ 
+MRS000266	K23269	purL	phosphoribosylformylglycinamidine synthase subunit PurL 
+MRS000267	K00764	purF, PPAT	amidophosphoribosyltransferase 
+MRS000268	K01933	purM	phosphoribosylformylglycinamidine cyclo-ligase 
+MRS000269	K11175	purN	phosphoribosylglycinamide formyltransferase 
+MRS000270	K00602	purH	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase 
+MRS000271	K01945	purD	phosphoribosylamine--glycine ligase 
+MRS000272	K00088	IMPDH, guaB	putative inosine-5'-monophosphate dehydrogenase 
+MRS000273	_	_	inosine-5-monophosphate dehydrogenase 
+MRS000274	K07668	vicR	response regulator transcription factor 
+MRS000275	K07652	vicK	PAS domain S-box protein 
+MRS000276	_	_	hypothetical protein EWR19_06585 
+MRS000277	_	_	hypothetical protein FKV77_00500 
+MRS000278	_	_	MBL fold metallo-hydrolase 
+MRS000279	_	_	PDZ domain-containing protein 
+MRS000280	_	_	_
+MRS000281	_	_	DUF1934 domain-containing protein 
+MRS000282	K06885	K06885	HD domain-containing protein 
+MRS000283	K21064	ycsE, yitU, ywtE	sugar-phosphatase 
+MRS000284	K03048	rpoE	DNA-directed RNA polymerase subunit delta 
+MRS000285	K01937	pyrG, CTPS	CTP synthase 
+MRS000286	K00790	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 
+MRS000287	K05592	deaD, cshA	DEAD/DEAH box helicase 
+MRS000288	K01775	alr	alanine racemase 
+MRS000289	K07171	mazF, ndoA, chpA	type II toxin-antitoxin system PemK/MazF family toxin 
+MRS000290	_	_	ATP-dependent DNA helicase 
+MRS000291	K01867	WARS, trpS	tryptophan--tRNA ligase 
+MRS000292	K01524	ppx-gppA	exopolyphosphatase 
+MRS000293	K16044	iolW	oxidoreductase 
+MRS000294	K17758	nnrD	YjeF domain protein 
+MRS000295	K01274	pepV	dipeptidase PepV 
+MRS000296	_	_	AAA family ATPase 
+MRS000297	_	_	_
+MRS000298	_	_	_
+MRS000299	_	_	hypothetical protein FKV86_05795 
+MRS000300	K02028	ABC.PA.A	amino acid ABC transporter ATP-binding protein 
+MRS000301	K10039	peb1A, glnH	ABC transporter, substrate-binding protein, family 3 
+MRS000302	K10040	peb1B, glnP, glnM	amino acid ABC transporter permease 
+MRS000303	K02029	ABC.PA.P	amino acid ABC transporter permease 
+MRS000304	K15580	oppA, mppA	ABC transporter, substrate-binding protein, family 5 
+MRS000305	K15581	oppB	ABC transporter permease 
+MRS000306	K15582	oppC	ABC transporter permease 
+MRS000307	K15583	oppD	ABC transporter, ATP-binding protein 
+MRS000308	K10823	oppF	ABC transporter ATP-binding protein 
+MRS000309	_	_	_
+MRS000310	K22927	gdpP	DHHA1 domain protein 
+MRS000311	K02939	RP-L9, MRPL9, rplI	50S ribosomal protein L9 
+MRS000312	K02314	dnaB	replicative DNA helicase 
+MRS000313	_	_	MFS transporter 
+MRS000314	K09790	K09790	DUF454 domain-containing protein 
+MRS000315	K00919	ispE	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase 
+MRS000316	K07335	bmpA, bmpB, tmpC	BMP family ABC transporter substrate-binding protein 
+MRS000317	_	_	hypothetical protein FKV76_07335 
+MRS000318	_	_	hypothetical protein FKV76_07340 
+MRS000319	_	_	transporter, major facilitator family protein 
+MRS000320	_	_	hypothetical protein HMPREF0877_1072 
+MRS000321	K21567	fnr	pyridine nucleotide-disulfide oxidoreductase 
+MRS000322	K01834	PGAM, gpmA	2,3-diphosphoglycerate-dependent phosphoglycerate mutase 
+MRS000323	_	_	helix-turn-helix transcriptional regulator 
+MRS000324	K05520	pfpI	intracellular protease, PfpI family 
+MRS000325	K03299	TC.GNTP	gluconate permease 
+MRS000326	_	_	Sugar efflux transporter for intercellular exchange 
+MRS000327	K01940	argG, ASS1	argininosuccinate synthase 
+MRS000328	K01755	argH, ASL	argininosuccinate lyase 
+MRS000329	_	_	hypothetical protein 
+MRS000330	_	_	transcriptional regulator, AraC family 
+MRS000331	K03292	TC.GPH	sodium:solute symporter 
+MRS000332	K18205	hypBA1	hypothetical protein HMPREF0877_1060 
+MRS000333	K15554	ssuC	ABC transporter, permease protein 
+MRS000334	_	_	ABC transporter ATP-binding protein 
+MRS000335	K15553	ssuA	aliphatic sulfonate ABC transporter substrate-binding protein 
+MRS000336	_	_	AMP-binding protein 
+MRS000337	_	_	acyltransferase 
+MRS000338	_	_	AMP-binding enzyme 
+MRS000339	_	_	Ldh family oxidoreductase 
+MRS000340	_	_	3-phosphoglycerate dehydrogenase 
+MRS000341	_	_	magnesium transporter CorA family protein 
+MRS000342	K00549	metE	methionine synthase, vitamin-B12 independent 
+MRS000343	K13953	adhP	alcohol dehydrogenase AdhP 
+MRS000344	K10254	ohyA, sph	oleate hydratase 
+MRS000345	_	_	hypothetical protein HMPREF0877_1047 
+MRS000346	_	_	hypothetical protein FKV82_04240 
+MRS000347	_	_	RNA-binding protein 
+MRS000348	K07497	K07497	IS3 family transposase 
+MRS000349	_	_	transposase 
+MRS000350	_	_	AI-2E family transporter 
+MRS000351	K07335	bmpA, bmpB, tmpC	BMP family ABC transporter substrate-binding protein 
+MRS000352	K07335	bmpA, bmpB, tmpC	BMP family ABC transporter substrate-binding protein 
+MRS000353	K23537	nupA	ABC transporter ATP-binding protein 
+MRS000354	K23535	nupB	ABC transporter permease 
+MRS000355	K23536	nupC	ABC transporter permease 
+MRS000356	K21064	ycsE, yitU, ywtE	Cof-like hydrolase 
+MRS000357	K01929	murF	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase 
+MRS000358	K03569	mreB	rod shape-determining protein 
+MRS000359	_	_	DUF2969 family protein 
+MRS000360	K05837	rodA, mrdB	rod shape-determining protein RodA 
+MRS000361	K00286	proC	pyrroline-5-carboxylate reductase 
+MRS000362	_	_	peptidase family M1 
+MRS000363	_	_	HAD family phosphatase 
+MRS000364	K02003	ABC.CD.A	ATP-binding cassette domain-containing protein 
+MRS000365	K01443	nagA, AMDHD2	N-acetylglucosamine-6-phosphate deacetylase 
+MRS000366	K24967	nagR	GntR family transcriptional regulator 
+MRS000367	K02986	RP-S4, rpsD	30S ribosomal protein S4 
+MRS000368	_	_	_
+MRS000369	K06286	ezrA	septation ring formation regulator EzrA 
+MRS000370	_	_	magnesium-transporting ATPase 
+MRS000371	K01939	purA, ADSS	adenylosuccinate synthase 
+MRS000372	K00760	hprT, hpt, HPRT1	hypoxanthine phosphoribosyltransferase 
+MRS000373	K16264	czcD, zitB	cation transporter 
+MRS000374	_	_	helix-turn-helix transcriptional regulator 
+MRS000375	_	_	hypothetical protein HMPREF0877_1020 
+MRS000376	_	_	GtrA-like protein 
+MRS000377	_	_	HAD family hydrolase 
+MRS000378	K00806	uppS	isoprenyl transferase 
+MRS000379	K00981	E2.7.7.41, CDS1, CDS2, cdsA	phosphatidate cytidylyltransferase 
+MRS000380	K11749	rseP	RIP metalloprotease RseP 
+MRS000381	K01881	PARS, proS	proline--tRNA ligase 
+MRS000382	K03763	polC	PolC-type DNA polymerase III 
+MRS000383	_	_	hypothetical protein CIT14_21690, partial 
+MRS000384	_	_	Uncharacterised protein 
+MRS000385	_	_	hypothetical protein IV69_GL000657 
+MRS000386	_	_	hypothetical protein A5881_001665 
+MRS000387	_	_	oxidoreductase, short chain dehydrogenase/reductase family protein 
+MRS000388	_	_	RNA methyltransferase 
+MRS000389	_	_	hypothetical protein HMPREF0877_0799 
+MRS000390	_	_	hypothetical protein CIT14_21690, partial 
+MRS000391	_	_	Uncharacterised protein 
+MRS000392	_	_	hypothetical protein IV69_GL000657 
+MRS000393	_	_	hypothetical protein A5881_001665 
+MRS000394	K02240	comFA	DEAD/DEAH box helicase 
+MRS000395	K02242	comFC	ComF family protein 
+MRS000396	K05808	yhbH	ribosomal subunit interface protein 
+MRS000397	_	_	hypothetical protein HMPREF0877_0090 
+MRS000398	K06959	tex	RNA-binding transcriptional accessory protein 
+MRS000399	_	_	hypothetical protein FKV77_06270 
+MRS000400	_	_	hypothetical protein WOSG25_100750 
+MRS000401	_	_	hypothetical protein HMPREF0877_0087 
+MRS000402	K18682	rny	ribonuclease Y 
+MRS000403	K07035	K07035	PTS sugar transporter subunit IIC 
+MRS000404	K02003	ABC.CD.A	ABC transporter ATP-binding protein 
+MRS000405	_	_	efflux ABC transporter, permease protein 
+MRS000406	_	_	fructokinase 
+MRS000407	_	_	hypothetical protein FKV77_06320 
+MRS000408	K06153	bacA	undecaprenyl-diphosphate phosphatase 
+MRS000409	_	_	aryl-sulfate sulfotransferase 
+MRS000410	K01023	assT	aryl-sulfate sulfotransferase 
+MRS000411	K01372	BLMH, pepC	C1 family peptidase 
+MRS000412	_	_	hypothetical protein EWR19_05915 
+MRS000413	_	_	2-keto-4-pentenoate hydratase 
+MRS000414	K03549	kup	potassium transporter 
+MRS000415	_	_	_
+MRS000416	_	_	membrane protein 
+MRS000417	_	_	transcriptional regulator 
+MRS000418	K00364	guaC, GMPR	GMP reductase 
+MRS000419	_	_	mechanosensitive ion channel family protein 
+MRS000420	K03457	TC.NCS1	cytosine permease 
+MRS000421	_	_	putative DNA topoisomerase 
+MRS000422	K01485	codA	cytosine deaminase 
+MRS000423	K02483	K02483	response regulator receiver domain protein 
+MRS000424	_	_	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein 
+MRS000425	K05340	glcU	glucose transporter 
+MRS000426	K01785	galM, GALM	galactose mutarotase 
+MRS000427	K01810	GPI, pgi	glucose-6-phosphate isomerase 
+MRS000428	K02356	efp	elongation factor P 
+MRS000429	_	_	Asp23/Gls24 family envelope stress response protein 
+MRS000430	K03625	nusB	transcription antitermination factor NusB 
+MRS000431	K02520	infC, MTIF3	translation initiation factor IF-3 
+MRS000432	K02916	RP-L35, MRPL35, rpmI	50S ribosomal protein L35 
+MRS000433	K02887	RP-L20, MRPL20, rplT	50S ribosomal protein L20 
+MRS000434	_	_	transposase 
+MRS000435	K07497	K07497	IS3 family transposase 
+MRS000436	_	_	hypothetical protein HMPREF0877_0056 
+MRS000437	K02950	RP-S12, MRPS12, rpsL	30S ribosomal protein S12 
+MRS000438	K02992	RP-S7, MRPS7, rpsG	30S ribosomal protein S7 
+MRS000439	K02355	fusA, GFM, EFG	elongation factor G 
+MRS000440	K11072	potA	ABC transporter ATP-binding protein 
+MRS000441	K11071	potB	ABC transporter permease 
+MRS000442	K11070	potC	ABC transporter permease 
+MRS000443	K11069	potD	ABC transporter substrate-binding protein 
+MRS000444	_	_	peptidylprolyl isomerase 
+MRS000445	_	_	hypothetical protein HMPREF0877_0047 
+MRS000446	_	_	universal stress protein 
+MRS000447	_	_	type II toxin-antitoxin system RelB/DinJ family antitoxin 
+MRS000448	K08972	K08972	phage holin family protein 
+MRS000449	K06023	hprK, ptsK	HPr kinase/phosphorylase 
+MRS000450	K00057	gpsA	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase 
+MRS000451	K00963	UGP2, galU, galF	UTP--glucose-1-phosphate uridylyltransferase GalU 
+MRS000452	K00384	trxB, TRR	thioredoxin-disulfide reductase 
+MRS000453	_	_	phosphoglycerate mutase family protein 
+MRS000454	K00648	fabH	beta-ketoacyl-acyl-carrier-protein synthase III 
+MRS000455	_	_	hypothetical protein HMPREF0877_0037 
+MRS000456	K02784	ptsH	pTS family porter component HPr 
+MRS000457	K08483	ptsI	phosphoenolpyruvate--protein phosphotransferase 
+MRS000458	_	_	alpha amylase, catalytic domain protein 
+MRS000459	_	_	triose-phosphate isomerase 
+MRS000460	_	_	_
+MRS000461	_	_	_
+MRS000462	K01689	ENO, eno	phosphopyruvate hydratase 
+MRS000463	K03075	secG	preprotein translocase subunit SecG 
+MRS000464	K12573	rnr, vacB	ribonuclease R 
+MRS000465	K03664	smpB	SsrA-binding protein SmpB 
+MRS000466	K10037	glnP	ABC transporter permease subunit 
+MRS000467	K02028	ABC.PA.A	amino acid ABC transporter ATP-binding protein 
+MRS000468	_	_	hypothetical protein FKV77_06600 
+MRS000469	K03648	UNG, UDG	uracil-DNA glycosylase 
+MRS000470	K00625	pta	phosphate acetyltransferase 
+MRS000471	_	_	linear amide C-N hydrolase 
+MRS000472	K07497	K07497	IS3 family transposase 
+MRS000473	_	_	helix-turn-helix domain-containing protein 
+MRS000474	K06925	tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE 
+MRS000475	_	_	GNAT family N-acetyltransferase 
+MRS000476	K02342	dnaQ	exonuclease 
+MRS000477	K00075	murB	UDP-N-acetylmuramate dehydrogenase 
+MRS000478	K24163	nhaK	Na+/H+ antiporter 
+MRS000479	K18672	dacA	TIGR00159 family protein 
+MRS000480	_	_	hypothetical protein FKV77_06650 
+MRS000481	K03431	glmM	phosphoglucosamine mutase 
+MRS000482	_	_	hypothetical protein FKV77_06660 
+MRS000483	K19002	mgs, bgsB	glycosyltransferase family 4 protein 
+MRS000484	K13678	cpoA	glycosyltransferase family 4 protein 
+MRS000485	K07027	K07027	flippase-like domain-containing protein 
+MRS000486	_	_	DUF1797 family protein 
+MRS000487	K19005	ltaS	arylsulfatase 
+MRS000488	_	_	hypothetical protein CIT14_21690, partial 
+MRS000489	_	_	Uncharacterised protein 
+MRS000490	_	_	hypothetical protein IV69_GL000657 
+MRS000491	_	_	hypothetical protein A5881_001665 
+MRS000492	_	_	hypothetical protein HMPREF0877_1843 
+MRS000493	_	_	YfhO family protein 
+MRS000494	K02794	manX	PTS mannose transporter subunit IIAB 
+MRS000495	K02795	manY	PTS mannose/fructose/sorbose transporter subunit IIC 
+MRS000496	K02796	manZ	PTS mannose/fructose/sorbose transporter family subunit IID 
+MRS000497	_	_	hypothetical protein HMPREF0877_1838 
+MRS000498	_	_	histidine phosphatase family protein 
+MRS000499	K15051	endA	DNA-entry nuclease 
+MRS000500	K07485	K07485	ISL3 family transposase 
+MRS000501	K01779	racD	amino acid racemase 
+MRS000502	K09004	K09004	hypothetical protein WOSG25_020300 
+MRS000503	_	_	antitoxin HicB 
+MRS000504	_	_	hypothetical protein 
+MRS000505	_	_	_
+MRS000506	_	_	helix-turn-helix transcriptional regulator 
+MRS000507	_	_	hypothetical protein HMPREF0877_1785 
+MRS000508	_	_	hypothetical protein FKV75_00090 
+MRS000509	K00134	GAPDH, gapA	type I glyceraldehyde-3-phosphate dehydrogenase 
+MRS000510	K00927	PGK, pgk	phosphoglycerate kinase 
+MRS000511	_	_	LysR substrate binding domain protein 
+MRS000512	_	_	energy coupling factor transporter S component ThiW 
+MRS000513	K00878	thiM	putative hydroxyethylthiazole kinase 
+MRS000514	K00788	thiE	thiamine-phosphate diphosphorylase 
+MRS000515	_	_	_
+MRS000516	K05847	opuA	ABC transporter ATP-binding protein 
+MRS000517	K05845	opuC	ABC transporter, substrate-binding protein, QAT family 
+MRS000518	K06131	clsA_B	cardiolipin synthase 
+MRS000519	_	_	DUF308 domain-containing protein 
+MRS000520	_	_	hypothetical protein HMPREF0877_1773 
+MRS000521	K03596	lepA	GTP-binding protein LepA 
+MRS000522	K02909	RP-L31, rpmE	type B 50S ribosomal protein L31 
+MRS000523	K03315	nhaC	Na+/H+ antiporter NhaC 
+MRS000524	_	_	cell wall enzyme EbsB family protein 
+MRS000525	_	_	hypothetical protein HMPREF0877_1768 
+MRS000526	K06180	rluD	RluA family pseudouridine synthase 
+MRS000527	K02825	pyrR	bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR 
+MRS000528	_	_	carbamoyl phosphate synthase small subunit 
+MRS000529	_	_	carbamoyl-phosphate synthetase, large subunit, oligomerization domain protein 
+MRS000530	K07533	prsA	PPIC-type PPIASE domain protein 
+MRS000531	K01756	purB, ADSL	adenylosuccinate lyase 
+MRS000532	_	_	_
+MRS000533	K02372	fabZ	3-hydroxyacyl-ACP dehydratase FabZ 
+MRS000534	_	_	MarR family transcriptional regulator 
+MRS000535	K00648	fabH	ketoacyl-ACP synthase III 
+MRS000536	K02078	acpP	acyl carrier protein 
+MRS000537	K02371	fabK	DUF561 domain-containing protein 
+MRS000538	K00645	fabD, MCAT, MCT1	putative 
+MRS000539	K00059	fabG, OAR1	3-oxoacyl-ACP reductase FabG 
+MRS000540	K09458	fabF, OXSM, CEM1	beta-ketoacyl-ACP synthase II 
+MRS000541	K02160	accB, bccP	acetyl-CoA carboxylase biotin carboxyl carrier protein 
+MRS000542	K02372	fabZ	3-hydroxyacyl-ACP dehydratase FabZ 
+MRS000543	_	_	acetyl-CoA carboxylase biotin carboxylase subunit 
+MRS000544	K01963	accD	acetyl-CoA carboxylase, carboxyltransferase subunit beta 
+MRS000545	_	_	acetyl-CoA carboxylase carboxyl transferase subunit alpha 
+MRS000546	K01807	rpiA	ribose 5-phosphate isomerase A 
+MRS000547	K01835	pgm	phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II 
+MRS000548	K03744	lemA	LemA family protein 
+MRS000549	K03799	htpX	zinc metalloprotease HtpX 
+MRS000550	K03215	rumA	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD 
+MRS000551	_	_	isochorismatase family protein 
+MRS000552	K22230	iolU	oxidoreductase, NAD-binding domain protein 
+MRS000553	_	_	DEAD/DEAH box helicase 
+MRS000554	K01926	rex	redox-sensing transcriptional repressor Rex 
+MRS000555	_	_	metal-dependent transcriptional regulator 
+MRS000556	_	_	hypothetical protein EWR19_05105 
+MRS000557	_	_	folate family ECF transporter S component 
+MRS000558	K02529	lacI, galR	LacI family transcriptional regulator 
+MRS000559	_	_	DUF3114 domain-containing protein 
+MRS000560	_	_	amino acid kinase family 
+MRS000561	K01775	alr	alanine racemase 
+MRS000562	K01586	lysA	diaminopimelate decarboxylase 
+MRS000563	_	_	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase 
+MRS000564	K05823	dapL	N-acetyldiaminopimelate deacetylase 
+MRS000565	K01714	dapA	4-hydroxy-tetrahydrodipicolinate synthase 
+MRS000566	K00215	dapB	4-hydroxy-tetrahydrodipicolinate reductase 
+MRS000567	K00841	patA	aminotransferase, class I/II 
+MRS000568	K00133	asd	aspartate-semialdehyde dehydrogenase 
+MRS000569	K08641	vanX	M15 family metallopeptidase 
+MRS000570	_	_	putative aromatic-amino-acid transaminase 
+MRS000571	_	_	ECF transporter S component 
+MRS000572	_	_	shikimate dehydrogenase 
+MRS000573	_	_	3-deoxy-7-phosphoheptulonate synthase 
+MRS000574	K01735	aroB	3-dehydroquinate synthase 
+MRS000575	K01736	aroC	chorismate synthase 
+MRS000576	K00800	aroA	3-phosphoshikimate 1-carboxyvinyltransferase 
+MRS000577	K00891	aroK, aroL	shikimate kinase 
+MRS000578	K03785	aroD	3-dehydroquinate dehydratase, type I 
+MRS000579	_	_	hypothetical protein HMPREF0877_1713 
+MRS000580	_	_	cobalt transport protein 
+MRS000581	K01552	ecfA	ABC transporter, ATP-binding protein 
+MRS000582	K16925	ykoE	ABC transporter permease 
+MRS000583	K00948	PRPS, prsA	ribose-phosphate pyrophosphokinase 
+MRS000584	K19265	gpr	aldo/keto reductase 
+MRS000585	K00852	rbsK, RBKS	ribokinase 
+MRS000586	_	_	DUF1456 family protein 
+MRS000587	_	_	_
+MRS000588	K03322	mntH	divalent metal cation transporter 
+MRS000589	K10947	padR	helix-turn-helix transcriptional regulator 
+MRS000590	_	_	DUF1700 domain-containing protein 
+MRS000591	_	_	hypothetical protein DIS13_04400 
+MRS000592	K01281	pepX	X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain protein 
+MRS000593	K21064	ycsE, yitU, ywtE	HAD hydrolase, family IIB 
+MRS000594	K11392	rsmF	NOL1/NOP2/sun family protein 
+MRS000595	K02435	gatC, GATC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit 
+MRS000596	K02433	gatA, QRSL1	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA 
+MRS000597	K02434	gatB, PET112	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB 
+MRS000598	K07029	dagK	lipid kinase, YegS/Rv2252/BmrU family 
+MRS000599	_	_	tetrahydrofolate synthase 
+MRS000600	K01519	rdgB, ITPA	nucleoside triphosphatase 
+MRS000601	K01928	murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase 
+MRS000602	_	_	hypothetical protein HMPREF0877_1688 
+MRS000603	K01887	RARS, argS	arginine--tRNA ligase 
+MRS000604	K03402	argR, ahrC	ArgR family transcriptional regulator 
+MRS000605	K12555	pbp2A	PBP1A family penicillin-binding protein 
+MRS000606	_	_	hypothetical protein FKV75_00820 
+MRS000607	K03547	sbcD, mre11	exonuclease SbcCD, D subunit 
+MRS000608	_	_	hypothetical protein HMPREF0877_1682 
+MRS000609	K03698	cbf, cbf1	HDIG domain protein 
+MRS000610	K25031	gntK	gluconokinase 
+MRS000611	K09167	K09167	hypothetical protein EWR19_04825 
+MRS000612	K08981	K08981	hypothetical protein HMPREF0877_1678 
+MRS000613	K03744	lemA	LemA family protein 
+MRS000614	_	_	hypothetical protein HMPREF0877_1676 
+MRS000615	K03299	TC.GNTP	transporter, gluconate:H+ symporter family 
+MRS000616	_	_	peptidase M16 inactive domain protein 
+MRS000617	_	_	insulinase family protein 
+MRS000618	K15539	rodZ	helix-turn-helix domain-containing protein 
+MRS000619	K00995	pgsA, PGS1	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 
+MRS000620	_	_	nicotinamide-nucleotide amidohydrolase family protein 
+MRS000621	K03553	recA	protein recA (Recombinase A) 
+MRS000622	_	_	hypothetical protein HMPREF0877_1668 
+MRS000623	K00867	coaA	pantothenate kinase 
+MRS000624	_	_	peptidoglycan-binding protein 
+MRS000625	K18926	lmrB	MFS transporter 
+MRS000626	_	_	DUF4811 domain-containing protein 
+MRS000627	K03704	cspA	cold-shock DNA-binding domain protein 
+MRS000628	_	_	pseudouridine synthase, RluA family 
+MRS000629	_	_	SCP-like protein 
+MRS000630	K19689	ampS, pepS, ampT	aminopeptidase 
+MRS000631	_	_	hypothetical protein EWR19_04725 
+MRS000632	K07304	msrA	peptide-methionine (S)-S-oxide reductase 
+MRS000633	_	_	methionine-R-sulfoxide reductase 
+MRS000634	_	_	4-phosphoerythronate dehydrogenase 
+MRS000635	_	_	hypothetical protein DWV05_06680 
+MRS000636	_	_	hypothetical protein HMPREF0877_1653 
+MRS000637	_	_	hypothetical protein DIS13_04170 
+MRS000638	K07485	K07485	ISL3 family transposase 
+MRS000639	K07497	K07497	IS3 family transposase 
+MRS000640	_	_	helix-turn-helix domain-containing protein 
+MRS000641	K03930	estA	putative esterase 
+MRS000642	K03930	estA	putative esterase 
+MRS000643	_	_	hypothetical protein HMPREF0877_1634 
+MRS000644	K21064	ycsE, yitU, ywtE	Cof-like hydrolase 
+MRS000645	K03489	yydK	transcriptional regulator, GntR family 
+MRS000646	K01223	E3.2.1.86B, bglA	6-phospho-beta-glucosidase 
+MRS000647	K02760	celA, chbB	PTS system, cellobiose-specific IIB component 
+MRS000648	K02759	celC, chbA	Lichenan-specific phosphotransferase enzyme IIA component 
+MRS000649	K01223	E3.2.1.86B, bglA	6-phospho-beta-glucosidase 
+MRS000650	K02761	celB, chbC	PTS cellobiose transporter subunit IIC 
+MRS000651	K09963	K09963	DUF871 domain-containing protein 
+MRS000652	_	_	hypothetical protein GA0061074_10447 
+MRS000653	K02761	celB, chbC	PTS system, cellobiose-specific IIC component 
+MRS000654	K01223	E3.2.1.86B, bglA	6-phospho-beta-glucosidase 
+MRS000655	_	_	GntR family transcriptional regulator, transcriptional regulator of bglA 
+MRS000656	_	_	LacI family transcriptional regulator 
+MRS000657	K00065	kduD	2-deoxy-D-gluconate 3-dehydrogenase 
+MRS000658	_	_	3-phosphoglycerate dehydrogenase 
+MRS000659	K07495	K07495	hypothetical protein BHU32_02755 
+MRS000660	_	_	3-phosphoglycerate dehydrogenase 
+MRS000661	_	_	KDG operon repressor 
+MRS000662	_	_	hypothetical protein WTH01_09910 
+MRS000663	_	_	citrate transporter 
+MRS000664	K00874	kdgK	2-dehydro-3-deoxygluconokinase 
+MRS000665	K08093	hxlA	3-hexulose-6-phosphate synthase 
+MRS000666	K08094	hxlB	6-phospho-3-hexuloisomerase 
+MRS000667	K01625	eda	2-dehydro-3-deoxy-phosphogluconate aldolase 
+MRS000668	_	_	hypothetical protein FKV75_01215 
+MRS000669	_	_	short-chain dehydrogenase 
+MRS000670	_	_	_
+MRS000671	_	_	Acyltransferase family protein 
+MRS000672	_	_	hypothetical protein ff3pr_02270 
+MRS000673	K07271	licD	phosphorylcholine transferase LicD 
+MRS000674	_	_	hypothetical protein WTH01_10110 
+MRS000675	K09693	tagH	ABC transporter, ATP-binding protein 
+MRS000676	K09692	tagG	transport permease protein 
+MRS000677	_	_	hypothetical protein WTH01_10080 
+MRS000678	_	_	hypothetical protein WTH01_10070 
+MRS000679	K09809	tagF	hypothetical protein WTH01_10060 
+MRS000680	K00980	tagD	glycerol-3-phosphate cytidylyltransferase 
+MRS000681	_	_	hypothetical protein WTH01_10040 
+MRS000682	_	_	hypothetical protein GA0061075_11824 
+MRS000683	K09809	tagF	CDP-glycerol glycerophosphotransferase 
+MRS000684	_	_	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase 
+MRS000685	_	_	_
+MRS000686	_	_	YfhO family protein 
+MRS000687	_	_	_
+MRS000688	K07497	K07497	IS3 family transposase 
+MRS000689	_	_	transposase 
+MRS000690	_	_	_
+MRS000691	_	_	_
+MRS000692	_	_	transposase 
+MRS000693	_	_	Transposase IS3/IS911 family protein 
+MRS000694	_	_	_
+MRS000695	K07273	acm	hypothetical protein WTH01_09780 
+MRS000696	_	_	IS3 family transposase 
+MRS000697	K01265	map	methionine aminopeptidase, type I 
+MRS000698	K16566	exoY	sugar transferase 
+MRS000699	_	_	multidrug MFS transporter 
+MRS000700	K01854	glf	UDP-galactopyranose mutase 
+MRS000701	_	_	flippase 
+MRS000702	K12999	rgpI	glycosyltransferase family 2 protein 
+MRS000703	K03705	hrcA	heat-inducible transcription repressor HrcA 
+MRS000704	K03687	GRPE	nucleotide exchange factor GrpE 
+MRS000705	K04043	dnaK, HSPA9	molecular chaperone DnaK 
+MRS000706	_	_	molecular chaperone DnaJ 
+MRS000707	_	_	hypothetical protein DIS13_03925 
+MRS000708	_	_	hypothetical protein DIS13_03920 
+MRS000709	K00784	rnz	ribonuclease Z 
+MRS000710	K07462	recJ	single-stranded-DNA-specific exonuclease RecJ 
+MRS000711	K00759	APRT, apt	adenine phosphoribosyltransferase 
+MRS000712	K07486	K07486	hypothetical protein HMPREF0877_1203 
+MRS000713	_	_	_
+MRS000714	K07486	K07486	hypothetical protein RV15_GL002313 
+MRS000715	_	_	ISL3 family transposase 
+MRS000716	_	_	ISL3 family transposase 
+MRS000717	_	_	ISL3 family transposase 
+MRS000718	_	_	acyltransferase 
+MRS000719	K00661	maa	sugar O-acetyltransferase 
+MRS000720	K07507	mgtC	MgtC/SapB family protein 
+MRS000721	K01356	lexA	repressor LexA 
+MRS000722	_	_	DUF896 domain-containing protein 
+MRS000723	K09976	K09976	YneF family protein 
+MRS000724	_	_	1-acyl-sn-glycerol-3-phosphate acyltransferase 
+MRS000725	K15460	yfiC, trmX	methyltransferase small domain protein 
+MRS000726	K07461	K07461	endonuclease 
+MRS000727	K02967	RP-S2, MRPS2, rpsB	ribosomal protein S2 
+MRS000728	K02357	tsf, TSFM	elongation factor Ts 
+MRS000729	K09903	pyrH	UMP kinase 
+MRS000730	K02838	frr, MRRF, RRF	ribosome recycling factor 
+MRS000731	K01005	tagT_U_V	LytR family transcriptional regulator 
+MRS000732	K03320	amt, AMT, MEP	ammonium transporter 
+MRS000733	_	_	hypothetical protein HMPREF0877_1580 
+MRS000734	K00820	glmS, GFPT	glutamine--fructose-6-phosphate transaminase (isomerizing) 
+MRS000735	_	_	hypothetical protein HMPREF0877_1578 
+MRS000736	K00974	cca	tRNA nucleotidyltransferase/poly(A) polymerase family protein 
+MRS000737	K15738	uup	ABC transporter, ATP-binding protein 
+MRS000738	K00287	DHFR, folA	dihydrofolate reductase 
+MRS000739	_	_	DUF2929 family protein 
+MRS000740	K02337	dnaE	DNA polymerase III, alpha subunit 
+MRS000741	K01139	spoT	RelA/SpoT family protein 
+MRS000742	K07560	dtd, DTD	D-tyrosyl-tRNA(Tyr) deacylase 
+MRS000743	K07473	dinJ	type II toxin-antitoxin system RelB/DinJ family antitoxin 
+MRS000744	_	_	cation:proton antiporter 
+MRS000745	_	_	hypothetical protein HMPREF0877_1568 
+MRS000746	K00243	K00243	DNA-binding protein 
+MRS000747	K04763	xerD	site-specific tyrosine recombinase XerD 
+MRS000748	K02859	ribT	reductase 
+MRS000749	K05896	scpA	ScpA/B protein 
+MRS000750	K06024	scpB	SMC-Scp complex subunit ScpB 
+MRS000751	K06178	rluB	rRNA pseudouridine synthase 
+MRS000752	K23675	fmnP, ribU	ECF transporter S component 
+MRS000753	_	_	hypothetical protein EWR19_04305 
+MRS000754	_	_	ATP-dependent DNA helicase RecQ 
+MRS000755	_	_	LysM domain-containing protein 
+MRS000756	K00945	cmk	cytidylate kinase 
+MRS000757	K02945	RP-S1, rpsA	30S ribosomal protein S1 
+MRS000758	K03977	engA, der	ribosome biogenesis GTPase Der 
+MRS000759	K03530	hupB	HU family DNA-binding protein 
+MRS000760	_	_	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase 
+MRS000761	_	_	hypothetical protein HMPREF0877_1552 
+MRS000762	K03547	sbcD, mre11	exonuclease SbcCD subunit D 
+MRS000763	K03546	sbcC, rad50	SMC family ATPase 
+MRS000764	_	_	hydrolase, NUDIX family 
+MRS000765	_	_	hypothetical protein HMPREF0877_1548 
+MRS000766	_	_	hypothetical protein HMPREF0877_1547 
+MRS000767	_	_	tetratricopeptide repeat protein 
+MRS000768	K06967	trmK	tRNA (adenine-N(1))-methyltransferase 
+MRS000769	_	_	Nif3-like dinuclear metal center hexameric protein 
+MRS000770	K01258	pepT	peptidase T 
+MRS000771	_	_	hypothetical protein FKV86_07140 
+MRS000772	K01958	PC, pyc	pyruvate carboxylase 
+MRS000773	_	_	hypothetical protein HMPREF0877_1540 
+MRS000774	K02913	RP-L33, MRPL33, rpmG	50S ribosomal protein L33 
+MRS000775	K02954	RP-S14, MRPS14, rpsN	30S ribosomal protein S14 
+MRS000776	K00574	cfa	class I SAM-dependent methyltransferase 
+MRS000777	_	_	carboxylate transporter 
+MRS000778	K07118	K07118	hypothetical protein HMPREF0877_1535 
+MRS000779	_	_	transcriptional regulator, AraC family 
+MRS000780	K16209	lacS, galP, rafP	glycoside/pentoside/hexuronide transporter 
+MRS000781	K00849	galK	galactokinase 
+MRS000782	_	_	putative UTP--hexose-1-phosphate uridylyltransferase 
+MRS000783	_	_	TetR/AcrR family transcriptional regulator 
+MRS000784	_	_	pyridine nucleotide-disulfide oxidoreductase 
+MRS000785	_	_	ABC transporter, substrate-binding protein, family 5 
+MRS000786	K15580	oppA, mppA	ABC transporter, substrate-binding protein, family 5 
+MRS000787	_	_	hypothetical protein HMPREF0877_1527 
+MRS000788	_	_	pyridoxamine 5'-phosphate oxidase family protein 
+MRS000789	_	_	hypothetical protein HMPREF0877_1525 
+MRS000790	_	_	elongation factor 4 
+MRS000791	_	_	helix-turn-helix domain-containing protein 
+MRS000792	K16209	lacS, galP, rafP	glycoside/pentoside/hexuronide transporter 
+MRS000793	K07407	E3.2.1.22B, galA, rafA	alpha-galactosidase 
+MRS000794	K07223	yfeX	Dyp-type peroxidase 
+MRS000795	_	_	DUF3862 domain-containing protein 
+MRS000796	_	_	hypothetical protein HMPREF0877_1518 
+MRS000797	_	_	hypothetical protein FKV83_03295 
+MRS000798	_	_	site-specific integrase 
+MRS000799	K00018	hprA	4-phosphoerythronate dehydrogenase 
+MRS000800	K03777	dld	D-lactate dehydrogenase 
+MRS000801	K01989	K01989	ABC transporter substrate-binding protein 
+MRS000802	K05832	K05832	ABC transporter permease 
+MRS000803	K05833	K05833	ABC transporter ATP-binding protein 
+MRS000804	_	_	hypothetical protein FKV71_01315 
+MRS000805	K16568	exoZ	acyltransferase 
+MRS000806	_	_	Ser/Thr phosphatase family protein 
+MRS000807	K13993	HSP20	Hsp20/alpha crystallin family protein 
+MRS000808	_	_	hypothetical protein HMPREF0877_1511 
+MRS000809	_	_	hypothetical protein WTH01_00430 
+MRS000810	_	_	hypothetical protein WTH01_00420 
+MRS000811	_	_	hypothetical protein WTH01_00410 
+MRS000812	_	_	hypothetical protein WTH01_00400 
+MRS000813	_	_	hypothetical protein WTH01_00390 
+MRS000814	_	_	acyltransferase 
+MRS000815	_	_	hydrolase, NUDIX family 
+MRS000816	_	_	TetR/AcrR family transcriptional regulator 
+MRS000817	_	_	TetR/AcrR family transcriptional regulator 
+MRS000818	_	_	hypothetical protein IV43_GL001062 
+MRS000819	_	_	hypothetical protein IV43_GL001061 
+MRS000820	_	_	glycosyl transferase 
+MRS000821	_	_	transporter, major facilitator family protein 
+MRS000822	_	_	_
+MRS000823	K01834	PGAM, gpmA	phosphoglycerate mutase 1 family 
+MRS000824	_	_	hypothetical protein FKV82_00750 
+MRS000825	_	_	hypothetical protein HMPREF0877_1505 
+MRS000826	K02073	metQ	NLPA lipoprotein 
+MRS000827	K08217	mef	transporter, major facilitator family protein 
+MRS000828	_	_	hypothetical protein CO680_03745 
+MRS000829	_	_	TetR family transcriptional regulator 
+MRS000830	_	_	glycosyltransferase family 1 protein 
+MRS000831	_	_	hypothetical protein C5L34_002215 
+MRS000832	K09861	K09861	hypothetical protein HMPREF0877_1502 
+MRS000833	_	_	tautomerase family protein 
+MRS000834	K03817	rimL	acetyltransferase, GNAT family 
+MRS000835	_	_	acetyltransferase, GNAT family 
+MRS000836	_	_	alpha/beta hydrolase 
+MRS000837	K03817	rimL	acetyltransferase, GNAT family 
+MRS000838	_	_	hypothetical protein HMPREF0877_1496 
+MRS000839	_	_	aldehyde dehydrogenase (NAD) family protein 
+MRS000840	_	_	NUDIX domain-containing protein 
+MRS000841	K07495	K07495	hypothetical protein BHU32_02755 
+MRS000842	_	_	acetyltransferase, GNAT family 
+MRS000843	_	_	alpha/beta fold hydrolase 
+MRS000844	_	_	phosphoglycerate mutase family protein 
+MRS000845	_	_	transporter, major facilitator family protein 
+MRS000846	_	_	_
+MRS000847	_	_	_
+MRS000848	_	_	putative azaleucine resistance protein AzlC 
+MRS000849	_	_	hypothetical protein FGL75_08505 
+MRS000850	K00800	aroA	3-phosphoshikimate 1-carboxyvinyltransferase 1 
+MRS000851	_	_	prephenate dehydrogenase/arogenate dehydrogenase family protein 
+MRS000852	K00891	aroK, aroL	Shikimate kinase I / AroE I 
+MRS000853	_	_	MFS transporter 
+MRS000854	_	_	_
+MRS000855	K01736	aroC	Chorismate synthase 
+MRS000856	K24180	mleP	auxin efflux carrier 
+MRS000857	K22212	mleA, mleS	malic enzyme, NAD binding domain protein 
+MRS000858	_	_	transcriptional regulator, LysR family 
+MRS000859	_	_	BNR/Asp-box repeat protein 
+MRS000860	_	_	_
+MRS000861	_	_	transcriptional repressor 
+MRS000862	K22736	VIT	membrane protein 
+MRS000863	K22736	VIT	membrane protein 
+MRS000864	_	_	TetR family transcriptional regulator 
+MRS000865	_	_	hypothetical protein WTH01_17580 
+MRS000866	_	_	hypothetical protein WTH01_17590 
+MRS000867	_	_	alpha/beta fold hydrolase 
+MRS000868	_	_	phosphoglycerate mutase family protein 
+MRS000869	_	_	_
+MRS000870	K03817	rimL	acetyltransferase, GNAT family 
+MRS000871	_	_	_
+MRS000872	_	_	transcriptional regulator, HxlR family 
+MRS000873	_	_	NADPH2:quinone reductase 
+MRS000874	_	_	_
+MRS000875	_	_	abc transporter related 
+MRS000876	_	_	ABC transporter ATP-binding protein 
+MRS000877	K16789	thiT	energy-coupled thiamine transporter ThiT 
+MRS000878	_	_	hypothetical protein WTH01_02740 
+MRS000879	_	_	putative cell-wall-anchored protein SasA (LPXTG motif) 
+MRS000880	_	_	_
+MRS000881	_	_	_
+MRS000882	_	_	N-acetyltransferase 
+MRS000883	K07482	K07482	IS30 family transposase 
+MRS000884	_	_	hypothetical protein WTH01_00120 
+MRS000885	_	_	_
+MRS000886	_	_	_
+MRS000887	_	_	hypothetical protein WTH01_00100 
+MRS000888	_	_	hypothetical protein WTH01_00090 
+MRS000889	_	_	hypothetical protein WTH01_00080 
+MRS000890	K03111	ssb	hypothetical protein WTH01_00070 
+MRS000891	_	_	hypothetical protein WTH01_00060 
+MRS000892	_	_	hypothetical protein WTH01_00050 
+MRS000893	K15051	endA	hypothetical protein WTH01_00040 
+MRS000894	_	_	hypothetical protein GA0061075_11011 
+MRS000895	_	_	hypothetical protein WTH01_00020 
+MRS000896	_	_	hypothetical protein WTH01_00010 
+MRS000897	_	_	_
+MRS000898	K07495	K07495	hypothetical protein BHU32_02755 
+MRS000899	_	_	Hypothetical protein EUBELI_01787 
+MRS000900	_	_	hypothetical protein 
+MRS000901	_	_	TIR domain-containing protein 
+MRS000902	_	_	_
+MRS000903	K03502	umuC	DNA polymerase V 
+MRS000904	_	_	hypothetical protein GA0061074_101219 
+MRS000905	_	_	YSIRK signal domain/LPXTG anchor domain surface protein 
+MRS000906	K10682	saeR	response regulator transcription factor 
+MRS000907	K10681	saeS	HAMP domain-containing histidine kinase 
+MRS000908	K07284	srtA	sortase family protein 
+MRS000909	_	_	_
+MRS000910	_	_	_
+MRS000911	_	_	hypothetical protein WTH01_02680 
+MRS000912	_	_	hypothetical protein WTH01_02690 
+MRS000913	_	_	hypothetical protein WTH01_02700 
+MRS000914	_	_	hypothetical protein WTH01_02710 
+MRS000915	_	_	hypothetical protein WTH01_02720 
+MRS000916	_	_	hypothetical protein WTH01_02730 
+MRS000917	_	_	hypothetical protein WTH01_02740 
+MRS000918	_	_	hypothetical protein WTH01_02750 
+MRS000919	_	_	hypothetical protein WTH01_02760 
+MRS000920	_	_	hypothetical protein WTH01_02770 
+MRS000921	_	_	ATP-dependent Clp protease ATP-binding subunit 
+MRS000922	_	_	hypothetical protein WTH01_02790 
+MRS000923	_	_	hypothetical protein WTH01_02790 
+MRS000924	_	_	hypothetical protein WTH01_02800 
+MRS000925	_	_	hypothetical protein WTH01_02810 
+MRS000926	_	_	hypothetical protein WTH01_02820 
+MRS000927	_	_	peptide transporter 
+MRS000928	_	_	peptide transporter 
+MRS000929	_	_	hypothetical protein EFA59_05850 
+MRS000930	_	_	_
+MRS000931	_	_	LacI family transcriptional regulator 
+MRS000932	K16211	malY, malT	transporter, major facilitator family protein 
+MRS000933	K01182	IMA, malL	alpha-glucosidase 
+MRS000934	_	_	hypothetical protein FKV75_04255 
+MRS000935	K08177	oxlT	OFA family MFS transporter 
+MRS000936	_	_	MTH1187 family thiamine-binding protein 
+MRS000937	_	_	hypothetical protein DIS13_03260 
+MRS000938	_	_	phosphomethylpyrimidine kinase 
+MRS000939	_	_	putative dipeptidase 
+MRS000940	_	_	hypothetical protein HMPREF0877_1417 
+MRS000941	K24180	mleP	AEC family transporter 
+MRS000942	_	_	ADP-ribosylglycohydrolase 
+MRS000943	_	_	DUF2507 domain-containing protein 
+MRS000944	K03439	trmB, METTL1, TRM8	tRNA (guanosine(46)-N7)-methyltransferase TrmB 
+MRS000945	K25157	ecsB	ABC transporter permease 
+MRS000946	K25158	ecsA	ABC transporter ATP-binding protein 
+MRS000947	K02503	HINT1, hinT, hit	HIT domain-containing protein 
+MRS000948	_	_	hypothetical protein FKV75_04190 
+MRS000949	K03305	TC.POT	peptide MFS transporter 
+MRS000950	K03702	uvrB	excinuclease ABC subunit UvrB 
+MRS000951	_	_	hypothetical protein HMPREF0877_1406 
+MRS000952	_	_	CamS family sex pheromone protein 
+MRS000953	K01972	E6.5.1.2, ligA, ligB	DNA ligase (NAD+) 
+MRS000954	K03657	uvrD, pcrA	DNA helicase PcrA 
+MRS000955	K07444	ypsC	hypothetical protein HMPREF0877_1402 
+MRS000956	_	_	cell division regulator GpsB 
+MRS000957	_	_	DUF1273 domain-containing protein 
+MRS000958	K03700	recU	Holliday junction resolvase RecU 
+MRS000959	_	_	PBP1A family penicillin-binding protein 
+MRS000960	K02086	dnaD	DnaD domain protein 
+MRS000961	K01893	NARS, asnS	asparagine--tRNA ligase 
+MRS000962	_	_	hypothetical protein HMPREF0877_1390 
+MRS000963	K03722	dinG	putative DnaQ family exonuclease/DinG family helicase 
+MRS000964	K00869	MVK, mvaK1	mevalonate kinase 
+MRS000965	K01597	MVD, mvaD	diphosphomevalonate decarboxylase 
+MRS000966	K00938	E2.7.4.2, mvaK2	phosphomevalonate kinase 
+MRS000967	_	_	type 2 isopentenyl-diphosphate Delta-isomerase 
+MRS000968	_	_	transcriptional regulator, TetR family 
+MRS000969	K03217	yidC, spoIIIJ, OXA1, ccfA	membrane protein insertase YidC 
+MRS000970	_	_	nucleoid-associated protein 
+MRS000971	K18940	arlS	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein 
+MRS000972	K18941	arlR	response regulator transcription factor 
+MRS000973	_	_	YibE/F family protein 
+MRS000974	_	_	YibE/F family protein 
+MRS000975	K11144	dnaI	putative primosomal protein DnaI 
+MRS000976	K03346	dnaB	helicase DnaB 
+MRS000977	K00859	coaE	dephospho-CoA kinase 
+MRS000978	K10563	mutM, fpg	bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase 
+MRS000979	K08987	K08987	DUF1304 domain-containing protein 
+MRS000980	_	_	GroES-like protein 
+MRS000981	_	_	pyridine nucleotide-disulfide oxidoreductase 
+MRS000982	_	_	MarR family transcriptional regulator 
+MRS000983	_	_	hypothetical protein EFA59_00725 
+MRS000984	K07474	xtmA	terminase 
+MRS000985	_	_	terminase 
+MRS000986	_	_	_
+MRS000987	_	_	hypothetical protein HMPREF0877_0870 
+MRS000988	_	_	modification methylase 
+MRS000989	_	_	site-specific integrase 
+MRS000990	_	_	site-specific integrase 
+MRS000991	_	_	Predicted DNA-binding protein, MmcQ/YjbR family 
+MRS000992	_	_	PH domain-containing protein 
+MRS000993	_	_	hypothetical protein DIS13_09485 
+MRS000994	_	_	hypothetical protein DIS13_09490 
+MRS000995	_	_	GlsB/YeaQ/YmgE family stress response membrane protein 
+MRS000996	_	_	hypothetical protein HMPREF0877_1361 
+MRS000997	_	_	hypothetical protein HMPREF0877_1360 
+MRS000998	_	_	ribonuclease G 
+MRS000999	K03811	pnuC	nicotinamide mononucleotide transporter 
+MRS001000	_	_	beta-galactosidase small subunit 
+MRS001001	K01190	lacZ	beta-galactosidase 
+MRS001002	K02335	polA	DNA-directed DNA polymerase 
+MRS001003	K06890	K06890	BAX inhibitor (BI)-1/YccA family protein 
+MRS001004	K01924	murC	UDP-N-acetylmuramate--L-alanine ligase 
+MRS001005	_	_	hypothetical protein EWR19_03500 
+MRS001006	_	_	DUF4479 domain-containing protein 
+MRS001007	K01261	pepA	glutamyl aminopeptidase 
+MRS001008	K00876	udk, UCK	uridine kinase 
+MRS001009	K07636	phoR	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein 
+MRS001010	K02483	K02483	response regulator transcription factor 
+MRS001011	K08217	mef	MFS transporter 
+MRS001012	K09936	TC.BAT2	DMT family transporter 
+MRS001013	K03086	rpoD	RNA polymerase sigma factor RpoD 
+MRS001014	K02316	dnaG	DNA primase 
+MRS001015	_	_	_
+MRS001016	K07482	K07482	Mobile element protein 
+MRS001017	_	_	helix-turn-helix domain-containing protein 
+MRS001018	K07497	K07497	IS3 family transposase 
+MRS001019	K08217	mef	transporter, major facilitator family protein 
+MRS001020	_	_	_
+MRS001021	K00067	rfbD, rmlD	dTDP-4-dehydrorhamnose reductase 
+MRS001022	K01710	rfbB, rmlB, rffG	dTDP-glucose 4,6-dehydratase 
+MRS001023	_	_	dTDP-4-dehydrorhamnose 3,5-epimerase 
+MRS001024	K00973	rfbA, rmlA, rffH	glucose-1-phosphate thymidylyltransferase 
+MRS001025	_	_	hypothetical protein FGL80_00365 
+MRS001026	_	_	glycosyltransferase family 2 protein 
+MRS001027	_	_	repeat unit transporter 
+MRS001028	_	_	glycosyltransferase 
+MRS001029	_	_	brp Blh family beta-carotene 15,15-monooxygenase 
+MRS001030	_	_	_
+MRS001031	_	_	glycosyltransferase 
+MRS001032	_	_	glycosyltransferase family 4 protein 
+MRS001033	_	_	glycosyltransferase family 2 protein 
+MRS001034	K07271	licD	LicD family protein 
+MRS001035	_	_	acyltransferase 
+MRS001036	_	_	hypothetical protein FGL80_00410 
+MRS001037	K12996	rgpA	DUF1972 domain-containing protein 
+MRS001038	K16566	exoY	sugar transferase 
+MRS001039	K00903	epsB, capB	capsular exopolysaccharide family 
+MRS001040	K19420	epsA, capA	chain length determinant protein 
+MRS001041	_	_	tyrosine protein phosphatase 
+MRS001042	_	_	transposase 
+MRS001043	K07497	K07497	IS3 family transposase 
+MRS001044	K07482	K07482	Transposase and inactivated derivatives, IS30 family 
+MRS001045	_	_	hypothetical protein GA0061075_10346 
+MRS001046	K07473	dinJ	DNA-damage-inducible protein J 
+MRS001047	K03169	topB	DNA topoisomerase-3 
+MRS001048	_	_	hypothetical protein GA0061075_10342 
+MRS001049	_	_	hypothetical protein WTH01_12510 
+MRS001050	_	_	hypothetical protein FKV74_06130 
+MRS001051	_	_	hypothetical protein WTH01_12490 
+MRS001052	_	_	hypothetical protein WTH01_12480 
+MRS001053	_	_	hypothetical protein GA0061075_10337 
+MRS001054	_	_	hypothetical protein WTH01_12460 
+MRS001055	_	_	hypothetical protein WTH01_12450 
+MRS001056	_	_	hypothetical protein WTH01_12440 
+MRS001057	_	_	type IV secretion system protein VirB4 
+MRS001058	_	_	hypothetical protein GA0061075_10331 
+MRS001059	_	_	hypothetical protein GA0061075_103140 
+MRS001060	_	_	peptide transporter 
+MRS001061	_	_	peptide transporter 
+MRS001062	_	_	hypothetical protein WTH01_12370 
+MRS001063	_	_	hypothetical protein GA0061075_103143 
+MRS001064	_	_	hypothetical protein GA0061075_10320 
+MRS001065	K03205	virD4, lvhD4	hypothetical protein WTH01_16820 
+MRS001066	_	_	ATP-dependent Clp protease ATP-binding subunit ClpC 
+MRS001067	_	_	hypothetical protein WTH01_16840 
+MRS001068	_	_	hypothetical protein WTH01_16850 
+MRS001069	_	_	hypothetical protein WTH01_16860 
+MRS001070	_	_	hypothetical protein WTH01_16870 
+MRS001071	_	_	hypothetical protein GA0061075_10313 
+MRS001072	_	_	hypothetical protein GA0061075_10312 
+MRS001073	_	_	DpnD/PcfM-like protein 
+MRS001074	_	_	hypothetical protein GA0061075_10310 
+MRS001075	_	_	hypothetical protein WTH01_16920 
+MRS001076	_	_	_
+MRS001077	_	_	hypothetical protein WCO01_19390 
+MRS001078	_	_	ATP-dependent protease La Type I 
+MRS001079	_	_	hypothetical protein LKI_00220 
+MRS001080	K07317	K07317	BREX-1 system adenine-specific DNA-methyltransferase PglX 
+MRS001081	_	_	integrase 
+MRS001082	K07497	K07497	IS3 family transposase 
+MRS001083	_	_	helix-turn-helix domain-containing protein 
+MRS001084	_	_	putative restriction enzyme 
+MRS001085	_	_	hypothetical protein LKI_00240 
+MRS001086	_	_	hypothetical protein LKI_00245 
+MRS001087	_	_	hypothetical protein LKI_00250 
+MRS001088	_	_	Zinc-type alcohol dehydrogenase-like protein 
+MRS001089	K07495	K07495	hypothetical protein BHU32_02755 
+MRS001090	K06864	larE	uncharacterized protein GA0061074_11528 
+MRS001091	K22373	larA	nickel-dependent lactate racemase 
+MRS001092	K07241	hoxN, nixA	high-affinity nickel-transport protein 
+MRS001093	_	_	Transposase DDE domain group 1 
+MRS001094	_	_	hypothetical protein BHU32_02755 
+MRS001095	_	_	hypothetical protein GA0061075_11032 
+MRS001096	_	_	_
+MRS001097	_	_	hypothetical protein GA0061075_1109 
+MRS001098	_	_	hypothetical protein WTH01_04040 
+MRS001099	_	_	hypothetical protein GA0061075_11011 
+MRS001100	K15051	endA	DNA-entry nuclease 
+MRS001101	_	_	hypothetical protein WTH01_04090 
+MRS001102	_	_	hypothetical protein EWR19_03170 
+MRS001103	K03111	ssb	hypothetical protein WTH01_04110 
+MRS001104	_	_	hypothetical protein WTH01_04120 
+MRS001105	_	_	hypothetical protein FKV74_06225 
+MRS001106	_	_	hypothetical protein WTH01_04140 
+MRS001107	_	_	_
+MRS001108	_	_	_
+MRS001109	_	_	helix-turn-helix transcriptional regulator 
+MRS001110	_	_	hypothetical protein LAC1533_0147 
+MRS001111	K01297	ldcA	LD-carboxypeptidase 
+MRS001112	K02001	proW	glycine/betaine ABC transporter permease 
+MRS001113	_	_	VOC family protein 
+MRS001114	K07149	K07149	fructose permease 
+MRS001115	_	_	GroES-like protein 
+MRS001116	K05296	E1.1.1.51	glucose 1-dehydrogenase 
+MRS001117	_	_	flavocytochrome c 
+MRS001118	_	_	universal stress protein 
+MRS001119	K03294	TC.APA	amino acid transporter 
+MRS001120	K01838	pgmB	beta-phosphoglucomutase 
+MRS001121	_	_	glycosyl hydrolase family 65 central catalytic domain protein 
+MRS001122	_	_	PTS beta-glucoside transporter subunit IIABC 
+MRS001123	_	_	PTS glucose transporter subunit IIA 
+MRS001124	K03486	treR2, treR	trehalose operon repressor 
+MRS001125	K09121	larC	hypothetical protein GA0061075_10485 
+MRS001126	K06898	larB	hypothetical protein GA0061074_11529 
+MRS001127	K06864	larE	uncharacterized protein GA0061074_11528 
+MRS001128	K22373	larA	nickel-dependent lactate racemase 
+MRS001129	K07241	hoxN, nixA	high-affinity nickel-transport protein 
+MRS001130	K01265	map	type I methionyl aminopeptidase 
+MRS001131	_	_	proton-conducting membrane transporter 
+MRS001132	K15580	oppA, mppA	peptide ABC transporter substrate-binding protein 
+MRS001133	K07485	K07485	ISL3 family transposase 
+MRS001134	_	_	alpha/beta hydrolase 
+MRS001135	K00382	DLD, lpd, pdhD	dihydrolipoyl dehydrogenase 
+MRS001136	_	_	dienelactone hydrolase 
+MRS001137	_	_	alpha-ketoacid dehydrogenase subunit beta 
+MRS001138	_	_	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha 
+MRS001139	K03800	lplA, lplJ, lipL1	lipoate--protein ligase 
+MRS001140	K07177	K07177	PDZ domain-containing protein 
+MRS001141	K00954	E2.7.7.3A, coaD, kdtB	pantetheine-phosphate adenylyltransferase 
+MRS001142	K08316	rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD 
+MRS001143	_	_	DUF2129 domain-containing protein 
+MRS001144	_	_	cell cycle protein, FtsW/RodA/SpoVE family 
+MRS001145	K06207	typA, bipA	translational GTPase TypA 
+MRS001146	_	_	inositol monophosphatase family protein 
+MRS001147	_	_	hypothetical protein HMPREF0877_1302 
+MRS001148	K01462	PDF, def	peptide deformylase 
+MRS001149	_	_	hypothetical protein FKV75_03255 
+MRS001150	_	_	DUF1447 family protein 
+MRS001151	K12574	rnj	ribonuclease J 
+MRS001152	K07029	dagK	diacylglycerol kinase family lipid kinase 
+MRS001153	K07304	msrA	peptide-methionine (S)-S-oxide reductase MsrA 
+MRS001154	K02073	metQ	MetQ/NlpA family ABC transporter substrate-binding protein 
+MRS001155	_	_	_
+MRS001156	_	_	hypothetical protein HMPREF0877_1293 
+MRS001157	K02001	proW	glycine/betaine ABC transporter permease 
+MRS001158	K02000	proV	glycine betaine/L-proline ABC transporter ATP-binding protein 
+MRS001159	_	_	GntR family transcriptional regulator 
+MRS001160	K15986	ppaC	manganese-dependent inorganic pyrophosphatase 
+MRS001161	K02621	parC	DNA topoisomerase IV, A subunit 
+MRS001162	K02622	parE	DNA topoisomerase IV subunit B 
+MRS001163	K08591	plsY	acyl-phosphate glycerol 3-phosphate acyltransferase 
+MRS001164	_	_	aldose 1-epimerase family protein 
+MRS001165	K04763	xerD	tyrosine recombinase XerC 
+MRS001166	K03168	topA	DNA topoisomerase I 
+MRS001167	K04096	smf	DNA-protecting protein DprA 
+MRS001168	K03470	rnhB	ribonuclease HII 
+MRS001169	K14540	rbgA	ribosome biogenesis GTPase YlqF 
+MRS001170	_	_	YozE family protein 
+MRS001171	_	_	DUF2140 family protein 
+MRS001172	_	_	GDSL-like protein 
+MRS001173	K25232	fakB	EDD domain protein, DegV family 
+MRS001174	K25232	fakB	EDD domain protein, DegV family 
+MRS001175	_	_	transcriptional regulator, MarR family 
+MRS001176	K06201	cutC	copper homeostasis protein CutC 
+MRS001177	_	_	fibronectin/fibrinogen-binding protein 
+MRS001178	K11753	ribF	riboflavin biosynthesis protein RibF 
+MRS001179	K03177	truB, PUS4, TRUB1	tRNA pseudouridine(55) synthase TruB 
+MRS001180	K02834	rbfA	30S ribosome-binding factor RbfA 
+MRS001181	K02519	infB, MTIF2	translation initiation factor IF-2 
+MRS001182	_	_	YlxQ-related RNA-binding protein 
+MRS001183	K07742	ylxR	YlxR family protein 
+MRS001184	K02600	nusA	transcription termination factor NusA 
+MRS001185	K09748	rimP	hypothetical protein HMPREF0877_1264 
+MRS001186	K06213	mgtE	magnesium transporter 
+MRS001187	K06180	rluD	RluA family pseudouridine synthase 
+MRS001188	K00858	ppnK, NADK	NAD kinase 
+MRS001189	K07816	E2.7.6.5	GTP pyrophosphokinase family protein 
+MRS001190	_	_	dithiol-disulfide isomerase 
+MRS001191	K07095	K07095	YfcE family phosphodiesterase 
+MRS001192	K01519	rdgB, ITPA	XTP/dITP diphosphatase 
+MRS001193	K01776	murI	glutamate racemase 
+MRS001194	K01091	gph	inorganic diphosphatase 
+MRS001195	_	_	_
+MRS001196	_	_	hypothetical protein A5881_001665 
+MRS001197	_	_	hypothetical protein IV69_GL000657 
+MRS001198	_	_	Uncharacterised protein 
+MRS001199	_	_	hypothetical protein CIT14_21690, partial 
+MRS001200	K03671	trxA	thioredoxin 
+MRS001201	K07456	mutS2	endonuclease MutS2 
+MRS001202	_	_	CvpA family protein 
+MRS001203	K09888	zapA	hypothetical protein HMPREF0877_1847 
+MRS001204	K03978	engB	YihA family ribosome biogenesis GTP-binding protein 
+MRS001205	K03544	clpX, CLPX	ATP-dependent Clp protease ATP-binding subunit ClpX 
+MRS001206	K03545	tig	trigger factor 
+MRS001207	K02358	tuf, TUFM	elongation factor Tu 
+MRS001208	_	_	hypothetical protein FKV75_02965 
+MRS001209	K12574	rnj	ribonuclease J 
+MRS001210	K02968	RP-S20, rpsT	30S ribosomal protein S20 
+MRS001211	K02956	RP-S15, MRPS15, rpsO	30S ribosomal protein S15 
+MRS001212	K02340	holA	DNA polymerase III, delta subunit 
+MRS001213	K02238	comEC	ComEC/Rec2 family competence protein 
+MRS001214	K02237	comEA	comEA protein 
+MRS001215	_	_	DUF1292 domain-containing protein 
+MRS001216	_	_	DUF1292 domain-containing protein 
+MRS001217	K07447	ruvX	Holliday junction resolvase RuvX 
+MRS001218	_	_	IreB family regulatory phosphoprotein 
+MRS001219	K01872	AARS, alaS	alanine--tRNA ligase 
+MRS001220	K18692	cshB	DEAD/DEAH box helicase 
+MRS001221	K06881	nrnA	bifunctional oligoribonuclease/PAP phosphatase NrnA 
+MRS001222	K02346	dinB	ImpB/MucB/SamB family protein 
+MRS001223	K03210	yajC	preprotein translocase subunit YajC 
+MRS001224	K00773	tgt	queuine tRNA-ribosyltransferase 
+MRS001225	_	_	hypothetical protein A5881_001665 
+MRS001226	_	_	hypothetical protein IV69_GL000657 
+MRS001227	_	_	Uncharacterised protein 
+MRS001228	_	_	hypothetical protein CIT14_21690, partial 
+MRS001229	K07568	queA	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA 
+MRS001230	K03551	ruvB	Holliday junction branch migration DNA helicase RuvB 
+MRS001231	K03550	ruvA	Holliday junction branch migration protein RuvA 
+MRS001232	K08161	mdtG	multidrug efflux MFS transporter 
+MRS001233	_	_	hypothetical protein HMPREF0877_0806 
+MRS001234	_	_	YigZ family protein 
+MRS001235	K03979	obgE, cgtA, MTG2	GTPase ObgE 
+MRS001236	K03703	uvrC	excinuclease ABC subunit UvrC 
+MRS001237	_	_	hypothetical protein HMPREF0877_0810 
+MRS001238	_	_	ABC transporter permease 
+MRS001239	_	_	ABC transporter ATP-binding protein 
+MRS001240	K03466	ftsK, spoIIIE	DNA translocase FtsK 
+MRS001241	K03216	trmL, cspR	tRNA (cytidine(34)-2'-O)-methyltransferase 
+MRS001242	_	_	AI-2E family transporter 
+MRS001243	K07404	pgl	lactonase family protein 
+MRS001244	K05794	terC	TerC family protein 
+MRS001245	K01879	glyS	glycine--tRNA ligase subunit beta 
+MRS001246	K01878	glyQ	glycine--tRNA ligase subunit alpha 
+MRS001247	K01424	E3.5.1.1, ansA, ansB	DNA repair protein RecO 
+MRS001248	K03595	era, ERAL1	GTPase Era 
+MRS001249	K00887	dgkA	diacylglycerol kinase family protein 
+MRS001250	K07042	ybeY, yqfG	rRNA maturation RNase YbeY 
+MRS001251	K06217	phoH, phoL	PhoH family protein 
+MRS001252	K09117	K09117	hypothetical protein WTH01_10830 
+MRS001253	K02970	RP-S21, MRPS21, rpsU	30S ribosomal protein S21 
+MRS001254	_	_	hypothetical protein HMPREF0877_0827 
+MRS001255	K01876	DARS2, aspS	aspartate--tRNA ligase 
+MRS001256	K01892	HARS, hisS	histidine--tRNA ligase 
+MRS001257	K01448	amiABC	N-acetylmuramoyl-L-alanine amidase 
+MRS001258	_	_	nucleoside 2-deoxyribosyltransferase 
+MRS001259	K01641	HMGCS	hydroxymethylglutaryl-CoA synthase 
+MRS001260	K13038	coaBC, dfp	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC 
+MRS001261	_	_	phage transcriptional regulator, ArpU family 
+MRS001262	K07485	K07485	ISL3 family transposase 
+MRS001263	_	_	_
+MRS001264	_	_	hypothetical protein HMPREF0877_1790 
+MRS001265	_	_	hypothetical protein HMPREF0877_0073 
+MRS001266	_	_	hypothetical protein
+MRS001267	K01575	alsD, budA, aldC	acetolactate decarboxylase 
+MRS001268	_	_	aspartate aminotransferase family protein 
+MRS001269	_	_	amino acid permease 
+MRS001270	K02529	lacI, galR	catabolite control protein A 
+MRS001271	K01271	pepQ	aminopeptidase P family protein 
+MRS001272	_	_	ATP synthase F0 subunit B 
+MRS001273	_	_	DUF948 domain-containing protein 
+MRS001274	K08602	pepF, pepB	oligoendopeptidase F 
+MRS001275	K06198	coiA	hypothetical protein DIS13_07410 
+MRS001276	K16511	mecA1_2	competence protein 
+MRS001277	K16509	spxA	Spx/MgsR family RNA polymerase-binding regulatory protein 
+MRS001278	_	_	toxic anion resistance protein 
+MRS001279	_	_	5-bromo-4-chloroindolyl phosphate hydrolase 
+MRS001280	K13256	psiE	protein PsiE 
+MRS001281	_	_	hypothetical protein DIS13_07080 
+MRS001282	K07052	K07052	CPBP family intramembrane metalloprotease 
+MRS001283	_	_	_
+MRS001284	K21064	ycsE, yitU, ywtE	Cof-type HAD-IIB family hydrolase 
+MRS001285	_	_	_
+MRS001286	K03282	mscL	large conductance mechanosensitive channel protein MscL 
+MRS001287	_	_	deoxynucleoside kinase 
+MRS001288	_	_	LysM peptidoglycan-binding domain-containing protein 
+MRS001289	K00864	glpK, GK	glycerol kinase 
+MRS001290	K01821	praC, xylH	tautomerase 
+MRS001291	_	_	hypothetical protein HMPREF0877_0913 
+MRS001292	K11102	gltP, gltT	cation:dicarboxylase symporter family transporter 
+MRS001293	K02884	RP-L19, MRPL19, rplS	50S ribosomal protein L19 
+MRS001294	K00554	trmD	tRNA (guanosine(37)-N1)-methyltransferase TrmD 
+MRS001295	K02860	rimM	16S rRNA processing protein RimM 
+MRS001296	_	_	histidine phosphatase family protein 
+MRS001297	K07485	K07485	ISL3 family transposase 
+MRS001298	K02959	RP-S16, MRPS16, rpsP	30S ribosomal protein S16 
+MRS001299	K03106	SRP54, ffh	signal recognition particle protein 
+MRS001300	K09787	K09787	putative DNA-binding protein 
+MRS001301	K03110	ftsY	hypothetical protein WTH01_10370 
+MRS001302	K03529	smc	chromosome segregation protein SMC 
+MRS001303	K03685	rnc, DROSHA, RNT1	ribonuclease III 
+MRS001304	K02078	acpP	acyl carrier protein 
+MRS001305	K03621	plsX	fatty acid/phospholipid synthesis protein PlsX 
+MRS001306	K03655	recG	ATP-dependent DNA helicase RecG 
+MRS001307	K07030	fakA	DAK2 domain-containing protein 
+MRS001308	_	_	hypothetical protein HMPREF0877_0930 
+MRS001309	K02902	RP-L28, MRPL28, rpmB	50S ribosomal protein L28 
+MRS001310	K00949	thiN, TPK1, THI80	thiamine diphosphokinase 
+MRS001311	K01783	rpe, RPE	ribulose-phosphate 3-epimerase 
+MRS001312	K06949	rsgA, engC	ribosome small subunit-dependent GTPase A 
+MRS001313	K12132	prkC, stkP	Stk1 family PASTA domain-containing Ser/Thr kinase 
+MRS001314	K20074	prpC, phpP	Stp1/IreP family PP2C-type Ser/Thr phosphatase 
+MRS001315	K03500	rsmB, sun	ribosomal RNA small subunit methyltransferase B 
+MRS001316	K00604	MTFMT, fmt	methionyl-tRNA formyltransferase 
+MRS001317	K04066	priA	primosomal protein N' 
+MRS001318	K00925	ackA	acetate kinase 
+MRS001319	_	_	class I SAM-dependent methyltransferase 
+MRS001320	_	_	hypothetical protein FKV75_02085 
+MRS001321	_	_	hypothetical protein FKV82_09545 
+MRS001322	_	_	type II secretion system protein 
+MRS001323	K02245	comGC	prepilin-type cleavage/methylation N-terminal domain protein 
+MRS001324	K02244	comGB	type II/IV secretion system protein 
+MRS001325	K02243	comGA	type II/IV secretion system protein 
+MRS001326	K06901	pbuG, azgA, ghxP, ghxQ, adeQ	NCS2 family permease 
+MRS001327	_	_	YebC/PmpR family DNA-binding transcriptional regulator 
+MRS001328	K03581	recD	ATP-dependent RecD-like DNA helicase 
+MRS001329	_	_	tetratricopeptide repeat protein 
+MRS001330	_	_	histidine phosphatase family protein 
+MRS001331	K01870	IARS, ileS	isoleucine--tRNA ligase 
+MRS001332	K04074	divIVA	DivIVA domain-containing protein 
+MRS001333	_	_	RNA-binding protein 
+MRS001334	K02221	yggT	YggT family protein 
+MRS001335	K09772	sepF	DUF552 domain-containing protein 
+MRS001336	K03531	ftsZ	cell division protein FtsZ 
+MRS001337	K03590	ftsA	cell division protein FtsA 
+MRS001338	K03589	ftsQ	FtsQ-type POTRA domain-containing protein 
+MRS001339	K02563	murG	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase 
+MRS001340	K01925	murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase 
+MRS001341	K01000	mraY	phospho-N-acetylmuramoyl-pentapeptide-transferase 
+MRS001342	_	_	penicillin-binding protein, transpeptidase domain protein 
+MRS001343	K03586	ftsL	cell division protein FtsL 
+MRS001344	K03438	mraW, rsmH	S-adenosyl-methyltransferase MraW 
+MRS001345	K03925	mraZ	division/cell wall cluster transcriptional repressor MraZ 
+MRS001346	_	_	hypothetical protein FKV75_01955 
+MRS001347	K09761	rsmE	16S rRNA (uracil(1498)-N(3))-methyltransferase 
+MRS001348	K02687	prmA	50S ribosomal protein L11 methyltransferase 
+MRS001349	K00873	PK, pyk	pyruvate kinase 
+MRS001350	K11733	lysP	amino acid permease 
+MRS001351	_	_	hypothetical protein HMPREF0877_0974 
+MRS001352	_	_	formate--tetrahydrofolate ligase 
+MRS001353	K02030	ABC.PA.S	ABC transporter, substrate-binding protein, family 3 
+MRS001354	_	_	ABC transporter, ATP-binding protein 
+MRS001355	K02029	ABC.PA.P	amino acid ABC transporter permease 
+MRS001356	K03571	mreD	rod shape-determining protein MreD 
+MRS001357	_	_	carbonic anhydrase family protein 
+MRS001358	K03570	mreC	rod shape-determining protein MreC 
+MRS001359	K03569	mreB	rod shape-determining protein 
+MRS001360	K03630	radC	DNA repair protein RadC 
+MRS001361	_	_	lactoylglutathione lyase 
+MRS001362	_	_	hypothetical protein HMPREF0877_0985 
+MRS001363	K06199	crcB, FEX	CrcB family protein 
+MRS001364	K06199	crcB, FEX	CrcB family protein 
+MRS001365	K05833	K05833	ATP-binding cassette domain-containing protein 
+MRS001366	K05832	K05832	ABC transporter permease 
+MRS001367	K01989	K01989	ABC transporter substrate binding protein 
+MRS001368	K00526	E1.17.4.1B, nrdB, nrdF	class 1b ribonucleoside-diphosphate reductase subunit beta 
+MRS001369	K00525	E1.17.4.1A, nrdA, nrdE	ribonucleoside-diphosphate reductase, alpha subunit 
+MRS001370	_	_	glutaredoxin 
+MRS001371	K03647	nrdI	class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI 
+MRS001372	_	_	hypothetical protein DIS13_06640 
+MRS001373	_	_	hypothetical protein FKV71_05035 
+MRS001374	_	_	LysM peptidoglycan-binding domain-containing protein 
+MRS001375	_	_	cysteine desulfurase 
+MRS001376	K01243	mtnN, mtn, pfs	5'-methylthioadenosine/adenosylhomocysteine nucleosidase 
+MRS001377	_	_	hypothetical protein FKV75_01800 
+MRS001378	K01515	nudF	NUDIX hydrolase 
+MRS001379	_	_	cold-shock protein 
+MRS001380	_	_	DUF3397 family protein 
+MRS001381	_	_	DUF4044 domain-containing protein 
+MRS001382	_	_	ATP-grasp domain-containing protein 
+MRS001383	K02395	flgJ	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase 
+MRS001384	K16012	cydC	thiol reductant ABC exporter subunit CydC 
+MRS001385	K16013	cydD	thiol reductant ABC exporter subunit CydD 
+MRS001386	K00426	cydB	cytochrome d ubiquinol oxidase, subunit II 
+MRS001387	K00425	cydA	cytochrome ubiquinol oxidase subunit I 
+MRS001388	_	_	phosphoglycerate dehydrogenase 
+MRS001389	_	_	helix-turn-helix transcriptional regulator 
+MRS001390	_	_	hypothetical protein BWK52_0969c 
+MRS001391	_	_	hypothetical protein A5881_001665 
+MRS001392	_	_	hypothetical protein IV69_GL000657 
+MRS001393	_	_	Uncharacterised protein 
+MRS001394	_	_	hypothetical protein CIT14_21690, partial 
+MRS001395	_	_	_
+MRS001396	_	_	hypothetical protein FKV75_04680 
+MRS001397	K07570	GSP13	RNA binding protein 
+MRS001398	K03768	PPIB, ppiB	peptidylprolyl isomerase 
+MRS001399	K03975	dedA	cytochrome O ubiquinol oxidase 
+MRS001400	K03060	rpoZ	DNA-directed RNA polymerase subunit omega 
+MRS001401	K00942	gmk, GUK1	guanylate kinase 
+MRS001402	K03631	recN	DNA repair protein RecN 
+MRS001403	K03402	argR, ahrC	arginine catabolic regulator 
+MRS001404	K06442	tlyA	ribosomal RNA large subunit methyltransferase J 
+MRS001405	_	_	polyprenyl synthetase family protein 
+MRS001406	K03602	xseB	exodeoxyribonuclease VII small subunit 
+MRS001407	K03601	xseA	exodeoxyribonuclease VII large subunit 
+MRS001408	_	_	bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase 
+MRS001409	K16924	mtsT	hypothetical protein HMPREF0877_0214 
+MRS001410	_	_	hypothetical protein FKV86_08445 
+MRS001411	K02564	nagB, GNPDA	glucosamine-6-phosphate deaminase 
+MRS001412	K01868	TARS, thrS	threonine--tRNA ligase 
+MRS001413	_	_	flavodoxin 
+MRS001414	K03572	mutL	DNA mismatch repair endonuclease MutL 
+MRS001415	K03555	mutS	DNA mismatch repair protein MutS 
+MRS001416	K07040	yceD, ylbN	DUF177 domain-containing protein 
+MRS001417	_	_	nucleotidyltransferase 
+MRS001418	_	_	class I SAM-dependent methyltransferase 
+MRS001419	K09710	ybeB	ribosome silencing factor 
+MRS001420	_	_	HD domain-containing protein 
+MRS001421	K00969	nadD	nicotinate-nucleotide adenylyltransferase 
+MRS001422	K07574	yhbY	RNA-binding protein, YhbY family 
+MRS001423	K06948	yqeH	ribosome biogenesis GTPase YqeH 
+MRS001424	K07015	yqeG	YqeG family HAD IIIA-type phosphatase 
+MRS001425	K01921	ddl	D-alanine--D-alanine ligase 
+MRS001426	_	_	DUF2785 domain-containing protein 
+MRS001427	_	_	APC family permease 
+MRS001428	K04077	groEL, HSPD1	chaperonin GroEL 
+MRS001429	K04078	groES, HSPE1	co-chaperone GroES 
+MRS001430	K06158	ABCF3	ABC transporter ATP-binding protein 
+MRS001431	K11754	folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase 
+MRS001432	K01873	VARS, valS	valine--tRNA ligase 
+MRS001433	K06895	lysE, argO	translocator protein, LysE family 
+MRS001434	K11068	hlyIII	hemolysin III 
+MRS001435	_	_	hypothetical protein EWR19_01170 
+MRS001436	_	_	hypothetical protein FKV75_04480 
+MRS001437	_	_	universal stress protein 
+MRS001438	_	_	hypothetical protein DIS13_00220 
+MRS001439	K07478	ycaJ	replication-associated recombination protein A 
+MRS001440	_	_	hypothetical protein HMPREF0877_0245 
+MRS001441	K00077	panE, apbA	ketopantoate reductase family protein 
+MRS001442	_	_	hypothetical protein FKV86_08605 
+MRS001443	K02837	prfC	peptide chain release factor 3 
+MRS001444	K07586	ygaC	DUF402 domain-containing protein 
+MRS001445	K03565	recX	recombinase RecX 
+MRS001446	K02039	phoU	phosphate signaling complex protein PhoU 
+MRS001447	K02036	pstB	phosphate ABC transporter ATP-binding protein 
+MRS001448	K02036	pstB	phosphate ABC transporter ATP-binding protein 
+MRS001449	K02038	pstA	phosphate ABC transporter permease PtsA 
+MRS001450	K02037	pstC	phosphate ABC transporter permease subunit PstC 
+MRS001451	K02040	pstS	phosphate ABC transporter substrate-binding protein PstS family protein 
+MRS001452	_	_	hypothetical protein DIS13_00290 
+MRS001453	_	_	TIGR01457 family HAD-type hydrolase 
+MRS001454	_	_	DUF1027 domain-containing protein 
+MRS001455	_	_	bifunctional metallophosphatase/5'-nucleotidase 
+MRS001456	_	_	metallophosphatase 
+MRS001457	_	_	phosphoesterase 
+MRS001458	K01271	pepQ	aminopeptidase P family protein 
+MRS001459	_	_	o-succinylbenzoate synthase 
+MRS001460	K08680	menH	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase 
+MRS001461	K02551	menD	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase 
+MRS001462	_	_	isochorismate synthase 
+MRS001463	K09384	K09384	DUF2075 domain-containing protein 
+MRS001464	_	_	DUF1516 family protein 
+MRS001465	_	_	ABC transporter ATP-binding protein 
+MRS001466	_	_	efflux ABC transporter, permease protein 
+MRS001467	K02899	RP-L27, MRPL27, rpmA	50S ribosomal protein L27 
+MRS001468	K02888	RP-L21, MRPL21, rplU	50S ribosomal protein L21 
+MRS001469	K03790	rimJ	GNAT family N-acetyltransferase 
+MRS001470	_	_	hypothetical protein FC26_GL002280 
+MRS001471	_	_	hypothetical protein LAC02_29320 
+MRS001472	K07273	acm	glycosyl hydrolase family 25 
+MRS001473	_	_	hypothetical protein HMPREF0877_0849 
+MRS001474	_	_	hypothetical protein FE411_08130 
+MRS001475	_	_	hypothetical protein HMPREF0877_0851 
+MRS001476	_	_	hypothetical protein HMPREF0877_0852 
+MRS001477	_	_	hypothetical protein EFA59_02735 
+MRS001478	_	_	phage minor structural protein, N-terminal domain protein 
+MRS001479	_	_	hypothetical protein 
+MRS001480	_	_	putative tape measure protein 
+MRS001481	_	_	hypothetical protein 
+MRS001482	_	_	hypothetical protein 
+MRS001483	_	_	putative major tail protein 
+MRS001484	_	_	hypothetical protein BMS98_05875 
+MRS001485	_	_	HK97 gp10 family phage protein 
+MRS001486	_	_	putative head-tail adaptor 
+MRS001487	_	_	putative DNA packaging protein 
+MRS001488	_	_	HeH/LEM domain-containing protein 
+MRS001489	_	_	putative capsid protein 
+MRS001490	K06904	K06904	hypothetical protein BMS98_05900 
+MRS001491	_	_	phage portal protein 
+MRS001492	_	_	hypothetical protein 
+MRS001493	_	_	putative terminase large subunit 
+MRS001494	_	_	putative terminase small subunit 
+MRS001495	_	_	putative restriction endonuclease 
+MRS001496	_	_	_
+MRS001497	_	_	hypothetical protein HMPREF0877_0870 
+MRS001498	_	_	_
+MRS001499	_	_	hypothetical protein WTH01_17240 
+MRS001500	_	_	GAF domain-containing protein 
+MRS001501	K03811	pnuC	nicotinamide riboside transporter PnuC 
+MRS001502	_	_	hypothetical protein FKV80_08225 
+MRS001503	_	_	hypothetical protein HMPREF0877_0879 
+MRS001504	_	_	hypothetical protein FKV83_02560 
+MRS001505	_	_	_
+MRS001506	_	_	hypothetical protein WTH01_03810 
+MRS001507	_	_	dTDP-glucose pyrophosphorylase 
+MRS001508	_	_	hypothetical protein WTH01_03830 
+MRS001509	_	_	Helix-turn-helix domain-containing protein 
+MRS001510	_	_	hypothetical protein GA0061074_11915 
+MRS001511	K07455	recT	hypothetical protein 
+MRS001512	_	_	hypothetical protein EFA59_02545 
+MRS001513	_	_	_
+MRS001514	_	_	hypothetical protein FKV74_01480 
+MRS001515	_	_	hypothetical protein WTH01_19140 
+MRS001516	_	_	_
+MRS001517	_	_	_
+MRS001518	_	_	hypothetical protein DIS13_07150 
+MRS001519	_	_	_
+MRS001520	_	_	hypothetical protein WTH01_18280 
+MRS001521	_	_	Helix-turn-helix domain-containing protein 
+MRS001522	_	_	hypothetical protein GA0061074_1255 
+MRS001523	_	_	hypothetical protein ABM34_04070 
+MRS001524	K14059	int	site-specific integrase 
+MRS001525	_	_	dUTPase 
+MRS001526	_	_	hypothetical protein FKV74_03965 
+MRS001527	_	_	hypothetical protein HMPREF0877_0292 
+MRS001528	K01915	glnA, GLUL	type I glutamate--ammonia ligase 
+MRS001529	K03713	glnR	MerR family transcriptional regulator 
+MRS001530	K00791	miaA, TRIT1	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA 
+MRS001531	_	_	glycerophosphodiester phosphodiesterase 
+MRS001532	_	_	DUF3042 family protein 
+MRS001533	_	_	rhodanese-like domain-containing protein 
+MRS001534	_	_	_
+MRS001535	_	_	CHAP domain-containing protein 
+MRS001536	K25026	glk	ROK family glucokinase 
+MRS001537	_	_	DUF910 family protein 
+MRS001538	K19225	gluP	rhomboid family intramembrane serine protease 
+MRS001539	K01934	MTHFS	5-formyltetrahydrofolate cyclo-ligase 
+MRS001540	_	_	penicillin-binding protein 2 
+MRS001541	_	_	hypothetical protein EWR19_00920 
+MRS001542	K03624	greA	transcription elongation factor GreA 
+MRS001543	K20534	gtrB	Glycosyltransferase involved in cell wall bisynthesis 
+MRS001544	_	_	4-amino-4-deoxy-L-arabinose transferase or related glycosyltransferase of PMT family 
+MRS001545	K03654	recQ	DNA helicase RecQ 
+MRS001546	K07082	K07082	YceG family protein 
+MRS001547	K01890	FARSB, pheT	phenylalanine--tRNA ligase subunit beta 
+MRS001548	K01889	FARSA, pheS	phenylalanine--tRNA ligase subunit alpha 
+MRS001549	_	_	helix-turn-helix transcriptional regulator 
+MRS001550	_	_	MFS transporter 
+MRS001551	_	_	HD superfamily metal-dependent phosphohydrolase 
+MRS001552	K03437	spoU	RNA methyltransferase, TrmH family 
+MRS001553	K05363	murM	peptidoglycan bridge formation glycyltransferase FemA/FemB family protein 
+MRS001554	K02836	prfB	peptide chain release factor 2 
+MRS001555	K03070	secA	preprotein translocase, SecA subunit 
+MRS001556	K09698	gltX	glutamate--tRNA ligase 
+MRS001557	_	_	PIN/TRAM domain-containing protein 
+MRS001558	K04485	radA, sms	DNA repair protein RadA 
+MRS001559	K01520	dut, DUT	dUTP diphosphatase 
+MRS001560	K06975	K06975	N-acetyltransferase 
+MRS001561	_	_	NlpC/P60 family protein 
+MRS001562	_	_	LysM domain protein 
+MRS001563	K03697	clpE	ATP-dependent Clp protease ATP-binding subunit 
+MRS001564	_	_	zinc-binding alcohol dehydrogenase family protein 
+MRS001565	K01575	alsD, budA, aldC	acetolactate decarboxylase 
+MRS001566	_	_	acetolactate synthase AlsS 
+MRS001567	_	_	MarR family transcriptional regulator 
+MRS001568	_	_	universal stress protein 
+MRS001569	_	_	hypothetical protein HMPREF0877_0331 
+MRS001570	K02911	RP-L32, MRPL32, rpmF	50S ribosomal protein L32 
+MRS001571	K07035	K07035	PTS sugar transporter subunit IIC 
+MRS001572	K03778	ldhA	D-2-hydroxyacid dehydrogenase 
+MRS001573	K01358	clpP, CLPP	ATP-dependent Clp protease proteolytic subunit 
+MRS001574	K09762	whiA	DNA-binding protein WhiA 
+MRS001575	_	_	uridine diphosphate-N-acetylglucosamine-binding protein YvcK 
+MRS001576	K06958	rapZ	RNase adapter RapZ 
+MRS001577	_	_	hypothetical protein FKV77_03285 
+MRS001578	K03701	uvrA	excinuclease ABC subunit UvrA 
+MRS001579	_	_	hypothetical protein FKV86_02420 
+MRS001580	K00547	mmuM, BHMT2	homocysteine S-methyltransferase 
+MRS001581	K16235	mmuP	amino acid permease 
+MRS001582	_	_	hypothetical protein HMPREF0877_0342 
+MRS001583	_	_	hypothetical protein DIS13_00645 
+MRS001584	K06221	dkgA	aldo/keto reductase 
+MRS001585	K21929	udg	uracil-DNA glycosylase family protein 
+MRS001586	K09705	K09705	cupin domain-containing protein 
+MRS001587	K02774	gatB, sgcB	PTS galactitol transporter subunit IIB 
+MRS001588	K02775	gatC, sgcC	PTS galactitol transporter subunit IIC 
+MRS001589	K02773	gatA, sgcA	PTS sugar transporter subunit IIA 
+MRS001590	_	_	hypothetical protein DIS13_00680 
+MRS001591	_	_	PRD domain protein 
+MRS001592	K00854	xylB, XYLB	xylulokinase 
+MRS001593	K01805	xylA	xylose isomerase 
+MRS001594	_	_	sugar kinase 
+MRS001595	_	_	MFS transporter 
+MRS001596	_	_	PASTA domain-containing protein 
+MRS001597	K00086	dhaT	1,3-propanediol dehydrogenase 
+MRS001598	K19265	gpr	oxidoreductase, aldo keto reductase family protein 
+MRS001599	K03710	K03710	GntR family transcriptional regulator 
+MRS001600	K06607	iolS	oxidoreductase, aldo/keto reductase family protein 
+MRS001601	K00567	ogt, MGMT	methylated-DNA--
+MRS001602	_	_	hypothetical protein HMPREF0877_0362 
+MRS001603	_	_	hypothetical protein FKV71_07430 
+MRS001604	K04063	osmC, ohr	dihydroneopterin aldolase 
+MRS001605	K02040	pstS	phosphate ABC transporter substrate-binding protein 
+MRS001606	K08728	E2.4.2.6	nucleoside deoxyribosyltransferase 
+MRS001607	K01007	pps, ppsA	pyruvate, water dikinase 
+MRS001608	K05346	deoR	putative sugar-binding domain protein 
+MRS001609	_	_	Inosine-uridine preferring nucleoside hydrolase 
+MRS001610	_	_	Inosine-uridine preferring nucleoside hydrolase 
+MRS001611	K16323	yxjA, nupG	NupC/NupG family nucleoside CNT transporter 
+MRS001612	K00852	rbsK, RBKS	ribokinase 
+MRS001613	K01807	rpiA	ribose 5-phosphate isomerase A 
+MRS001614	K09936	TC.BAT2	hypothetical protein HMPREF0877_0377 
+MRS001615	K03761	kgtP	transporter, major facilitator family protein 
+MRS001616	K01439	dapE	peptidase, ArgE/DapE family 
+MRS001617	_	_	alpha-glucosidase 
+MRS001618	K19506	gfrA	PTS N-acetylglucosamine transporter subunit IIBC 
+MRS001619	_	_	PTS system mannose/fructose/sorbose family transporter subunit IID 
+MRS001620	K02795	manY	PTS sugar transporter subunit IIC 
+MRS001621	_	_	PTS mannose/fructose/sorbose transporter subunit IIB 
+MRS001622	_	_	SIS domain-containing protein 
+MRS001623	_	_	DNA-binding transcriptional regulator, FadR family 
+MRS001624	K03299	TC.GNTP	gluconate:H+ symporter, GntP family 
+MRS001625	_	_	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase 
+MRS001626	K00883	dgoK	2-dehydro-3-deoxygalactonokinase 
+MRS001627	K01684	dgoD	galactonate dehydratase 
+MRS001628	_	_	hypothetical protein HMPREF0877_0380 
+MRS001629	K07454	K07454	hypothetical protein WTH01_09560 
+MRS001630	K09384	K09384	hypothetical protein WTH01_09570 
+MRS001631	K02996	RP-S9, MRPS9, rpsI	30S ribosomal protein S9 
+MRS001632	K02871	RP-L13, MRPL13, rplM	50S ribosomal protein L13 
+MRS001633	K06173	truA, PUS1	tRNA pseudouridine synthase A 
+MRS001634	K16785	ecfT	cobalt transport protein 
+MRS001635	K16787	ecfA2	ABC transporter, ATP-binding protein 
+MRS001636	K16786	ecfA1	energy-coupling factor ABC transporter ATP-binding protein 
+MRS001637	_	_	RNA methyltransferase, TrmH family 
+MRS001638	K03885	ndh	pyridine nucleotide-disulfide oxidoreductase 
+MRS001639	K19975	mntC	metal ABC transporter substrate-binding protein 
+MRS001640	K19976	mntB	metal ABC transporter permease 
+MRS001641	_	_	manganese ABC transporter ATP-binding protein 
+MRS001642	K17836	penP	hypothetical protein HMPREF0877_0400 
+MRS001643	K02935	RP-L7, MRPL12, rplL	50S ribosomal protein L7/L12 
+MRS001644	K02864	RP-L10, MRPL10, rplJ	50S ribosomal protein L10 
+MRS001645	K02863	RP-L1, MRPL1, rplA	ribosomal protein L1 
+MRS001646	K02867	RP-L11, MRPL11, rplK	50S ribosomal protein L11 
+MRS001647	K02601	nusG	transcription termination/antitermination protein NusG 
+MRS001648	K03073	secE	preprotein translocase subunit SecE 
+MRS001649	_	_	hypothetical protein EWR19_00430 
+MRS001650	K03218	rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB 
+MRS001651	K11145	mrnC	Mini-ribonuclease 3 
+MRS001652	K00762	pyrE	orotate phosphoribosyltransferase 
+MRS001653	K01591	pyrF	orotidine 5'-phosphate decarboxylase 
+MRS001654	K17828	pyrDI	dihydroorotate dehydrogenase B, catalytic subunit 
+MRS001655	K01955	carB, CPA2	carbamoyl-phosphate synthase, large subunit 
+MRS001656	K01956	carA, CPA1	carbamoyl phosphate synthase small subunit 
+MRS001657	K01465	URA4, pyrC	dihydroorotase 
+MRS001658	K00609	pyrB, PYR2	aspartate carbamoyltransferase 
+MRS001659	K06041	kdsD, kpsF	sugar isomerase, KpsF/GutQ family 
+MRS001660	K01627	kdsA	3-deoxy-8-phosphooctulonate synthase 
+MRS001661	K07173	luxS	S-ribosylhomocysteine lyase 
+MRS001662	K01883	CARS, cysS	cysteine--tRNA ligase 
+MRS001663	K19265	gpr	L-glyceraldehyde 3-phosphate reductase 
+MRS001664	K01916	nadE	ammonia-dependent NAD(+) synthetase 
+MRS001665	K00763	pncB, NAPRT1	nicotinate phosphoribosyltransferase 
+MRS001666	_	_	hypothetical protein HMPREF0877_0425 
+MRS001667	K02073	metQ	MetQ/NlpA family ABC transporter substrate-binding protein 
+MRS001668	_	_	MetQ/NlpA family ABC transporter substrate-binding protein 
+MRS001669	K02071	metN	methionine ABC transporter ATP-binding protein 
+MRS001670	K02072	metI	ABC transporter permease 
+MRS001671	_	_	hypothetical protein HMPREF0877_0429 
+MRS001672	_	_	cation-transporting P-type ATPase 
+MRS001673	_	_	phage tail protein 
+MRS001674	K02879	RP-L17, MRPL17, rplQ	50S ribosomal protein L17 
+MRS001675	K03040	rpoA	DNA-directed RNA polymerase, alpha subunit 
+MRS001676	K02948	RP-S11, MRPS11, rpsK	30S ribosomal protein S11 
+MRS001677	K02952	RP-S13, rpsM	30S ribosomal protein S13 
+MRS001678	K02518	infA	translation initiation factor IF-1 
+MRS001679	K00939	adk, AK	adenylate kinase 
+MRS001680	K03076	secY	preprotein translocase, SecY subunit 
+MRS001681	K02876	RP-L15, MRPL15, rplO	50S ribosomal protein L15 
+MRS001682	K02907	RP-L30, MRPL30, rpmD	50S ribosomal protein L30 
+MRS001683	K02988	RP-S5, MRPS5, rpsE	30S ribosomal protein S5 
+MRS001684	K02881	RP-L18, MRPL18, rplR	50S ribosomal protein L18 
+MRS001685	K02933	RP-L6, MRPL6, rplF	50S ribosomal protein L6 
+MRS001686	K02994	RP-S8, rpsH	30S ribosomal protein S8 
+MRS001687	K02931	RP-L5, MRPL5, rplE	50S ribosomal protein L5 
+MRS001688	K02895	RP-L24, MRPL24, rplX	50S ribosomal protein L24 
+MRS001689	K02874	RP-L14, MRPL14, rplN	LSU ribosomal protein L14P 
+MRS001690	K02961	RP-S17, MRPS17, rpsQ	30S ribosomal protein S17 
+MRS001691	K02904	RP-L29, rpmC	50S ribosomal protein L29 
+MRS001692	K02878	RP-L16, MRPL16, rplP	50S ribosomal protein L16 
+MRS001693	K02982	RP-S3, rpsC	30S ribosomal protein S3 
+MRS001694	K02890	RP-L22, MRPL22, rplV	50S ribosomal protein L22 
+MRS001695	K02965	RP-S19, rpsS	30S ribosomal protein S19 
+MRS001696	K02886	RP-L2, MRPL2, rplB	50S ribosomal protein L2 
+MRS001697	K02892	RP-L23, MRPL23, rplW	50S ribosomal protein L23 
+MRS001698	K02926	RP-L4, MRPL4, rplD	50S ribosomal protein L4 
+MRS001699	K02906	RP-L3, MRPL3, rplC	50S ribosomal protein L3 
+MRS001700	K02946	RP-S10, MRPS10, rpsJ	30S ribosomal protein S10 
+MRS001701	_	_	polyprenyl synthetase family protein 
+MRS001702	K25706	tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD 
+MRS001703	K03789	rimI	ribosomal-protein-alanine N-acetyltransferase 
+MRS001704	K03789	rimI	ribosomal-protein-alanine N-acetyltransferase 
+MRS001705	K14742	tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB 
+MRS001706	_	_	hypothetical protein EWR19_00135 
+MRS001707	K01784	galE, GALE	UDP-glucose 4-epimerase GalE 
+MRS001708	_	_	acyl-ACP thioesterase 
+MRS001709	K07056	rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase 
+MRS001710	_	_	DNA polymerase III subunit delta' 
+MRS001711	_	_	hypothetical protein FKV81_02170 
+MRS001712	K00943	tmk, DTYMK	dTMP kinase 
+MRS001713	_	_	DUF2508 family protein 
+MRS001714	K06187	recR	recombination protein RecR 
+MRS001715	K09747	ebfC	DNA-binding protein, YbaB/EbfC family 
+MRS001716	K02343	dnaX	DNA polymerase III, subunit gamma and tau 
+MRS001717	K11991	tadA	nucleoside deaminase 
+MRS001718	K00564	rsmC	methyltransferase small domain protein 
+MRS001719	K06889	K06889	alpha/beta hydrolase 
+MRS001720	K19350	lsa	ABC transporter, ATP-binding protein 
+MRS001721	K08602	pepF, pepB	M3 family oligoendopeptidase 
+MRS001722	_	_	MFS transporter 
+MRS001723	_	_	CHAD domain protein 
+MRS001724	K03973	pspC	PspC domain-containing protein 
+MRS001725	_	_	chloride channel protein 
+MRS001726	_	_	hypothetical protein HMPREF0877_0484 
+MRS001727	_	_	helix-turn-helix transcriptional regulator 
+MRS001728	K00563	rlmA1	methyltransferase domain-containing protein 
+MRS001729	_	_	iron-containing alcohol dehydrogenase 
+MRS001730	K03046	rpoC	DNA-directed RNA polymerase, beta' subunit 
+MRS001731	K03043	rpoB	DNA-directed RNA polymerase subunit beta 
+MRS001732	K03696	clpC	ATP-dependent Clp protease ATP-binding subunit 
+MRS001733	K03708	ctsR	transcriptional repressor of CtsR 
+MRS001734	_	_	_
+MRS001735	K01875	SARS, serS	serine--tRNA ligase 
+MRS001736	_	_	deoxynucleoside kinase 
+MRS001737	K07485	K07485	ISL3 family transposase 
+MRS001738	K02114	ATPF1E, atpC	F0F1 ATP synthase subunit epsilon 
+MRS001739	K02112	ATPF1B, atpD	F0F1 ATP synthase subunit beta 
+MRS001740	K02115	ATPF1G, atpG	F0F1 ATP synthase subunit gamma 
+MRS001741	K02111	ATPF1A, atpA	ATP synthase F1, alpha subunit 
+MRS001742	K02113	ATPF1D, atpH	F0F1 ATP synthase subunit delta 
+MRS001743	K02109	ATPF0B, atpF	F0F1 ATP synthase subunit B 
+MRS001744	K02110	ATPF0C, atpE	F0F1 ATP synthase subunit C 
+MRS001745	K02108	ATPF0A, atpB	F0F1 ATP synthase subunit A 
+MRS001746	K02824	uraA, pyrP	putative permease 
+MRS001747	_	_	NAD-dependent epimerase/dehydratase family protein 
+MRS001748	K00761	upp, UPRT	uracil phosphoribosyltransferase 
+MRS001749	K00600	glyA, SHMT	serine hydroxymethyltransferase 
+MRS001750	K07566	tsaC, rimN, SUA5, YRDC	threonylcarbamoyl-AMP synthase 
+MRS001751	K02493	hemK, prmC, HEMK	peptide chain release factor N(5)-glutamine methyltransferase 
+MRS001752	K02835	prfA, MTRF1, MRF1	peptide chain release factor 1 
+MRS001753	K00857	tdk, TK	thymidine kinase 
+MRS001754	K07009	gatD	glutamine amidotransferase 
+MRS001755	K23393	murT	DUF1727 domain-containing protein 
+MRS001756	K01809	manA, MPI	mannose-6-phosphate isomerase, class I 
+MRS001757	_	_	hypothetical protein EWR19_09090 
+MRS001758	K18892	patB, rscB, lmrC, satB	ABC transporter ATP-binding protein 
+MRS001759	K18891	patA, rscA, lmrC, satA	ABC transporter ATP-binding protein 
+MRS001760	K03665	hflX	GTP-binding protein HflX 
+MRS001761	_	_	histidine phosphatase family protein 
+MRS001762	K01142	E3.1.11.2, xthA	exodeoxyribonuclease III 
+MRS001763	K04072	adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase 
+MRS001764	K17686	copA, ctpA, ATP7	copper-exporting ATPase 
+MRS001765	_	_	cupredoxin domain-containing protein 
+MRS001766	_	_	cupredoxin domain-containing protein 
+MRS001767	K02171	blaI	CopY/TcrY family copper transport repressor 
+MRS001768	K07485	K07485	ISL3 family transposase 
+MRS001769	K07386	pepO	peptidase family M13 
+MRS001770	_	_	hypothetical protein HMPREF0877_0526 
+MRS001771	K01621	xfp, xpk	phosphoketolase family protein 
+MRS001772	K03492	gmuR	GntR family transcriptional regulator 
+MRS001773	K18926	lmrB	DHA2 family efflux MFS transporter permease subunit 
+MRS001774	K06950	K06950	HD domain-containing protein 
+MRS001775	_	_	hypothetical protein EWR19_08980 
+MRS001776	K03976	ybaK, ebsC	aminoacyl-tRNA deacylase 
+MRS001777	K23059	artP, artI	transporter substrate-binding domain-containing protein 
+MRS001778	K02028	ABC.PA.A	ABC transporter, ATP-binding protein 
+MRS001779	K23059	artP, artI	transporter substrate-binding domain-containing protein 
+MRS001780	K02028	ABC.PA.A	amino acid ABC transporter ATP-binding protein 
+MRS001781	_	_	hypothetical protein EWR19_08950 
+MRS001782	_	_	hypothetical protein HMPREF0877_0539 
+MRS001783	K06221	dkgA	aldo/keto reductase 
+MRS001784	K01804	araA	L-arabinose isomerase 
+MRS001785	K03077	araD, ulaF, sgaE, sgbE	L-ribulose-5-phosphate 4-epimerase 
+MRS001786	_	_	ATPase 
+MRS001787	K02103	araR	transcriptional regulator, GntR family 
+MRS001788	K03327	TC.MATE, SLC47A, norM, mdtK, dinF	MATE family efflux transporter 
+MRS001789	_	_	sugar porter family MFS transporter 
+MRS001790	_	_	ATP-binding cassette domain-containing protein 
+MRS001791	_	_	metal ABC transporter permease 
+MRS001792	_	_	ATP-binding cassette domain-containing protein 
+MRS001793	_	_	ABC transporter substrate-binding protein 
+MRS001794	_	_	MarR family transcriptional regulator 
+MRS001795	K16568	exoZ	acetyltransferase 
+MRS001796	K03095	sprL	SprT family protein 
+MRS001797	_	_	DUF975 family protein 
+MRS001798	K03305	TC.POT	peptide MFS transporter 
+MRS001799	_	_	phosphatidylinositol kinase 
+MRS001800	K08152	lmrP	MFS transporter 
+MRS001801	_	_	DUF1836 domain-containing protein 
+MRS001802	_	_	GHKL domain-containing protein 
+MRS001803	K02483	K02483	response regulator transcription factor 
+MRS001804	_	_	DUF1129 family protein 
+MRS001805	K06942	ychF	redox-regulated ATPase YchF 
+MRS001806	_	_	DUF951 domain-containing protein 
+MRS001807	K03497	parB, spo0J	ParB/RepB/Spo0J family partition protein 
+MRS001808	K03496	parA, soj	ParA family protein 
+MRS001809	K03501	gidB, rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+MRS001810	K03575	mutY	A/G-specific adenine glycosylase 
+MRS001811	K01807	rpiA	ribose-5-phosphate isomerase RpiA 
+MRS001812	K14982	ciaH	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein 
+MRS001813	K14983	ciaR	response regulator transcription factor 
+MRS001814	_	_	APC family permease 
+MRS001815	K07025	K07025	HAD hydrolase, TIGR02254 family 
+MRS001816	_	_	GNAT family N-acetyltransferase 
+MRS001817	K01911	menE	O-succinylbenzoate-CoA ligase 
+MRS001818	K01661	menB	1,4-dihydroxy-2-naphthoyl-CoA synthase 
+MRS001819	K19222	menI, DHNAT	PaaI family thioesterase 
+MRS001820	_	_	_
+MRS001821	_	_	hypothetical protein EWR19_08725 
+MRS001822	K01424	E3.5.1.1, ansA, ansB	asparaginase 
+MRS001823	_	_	amino acid permease 
+MRS001824	_	_	amino acid permease 
+MRS001825	K09014	sufB	FeS assembly protein SufB 
+MRS001826	K04488	iscU, nifU	SUF system NifU family Fe-S cluster assembly protein 
+MRS001827	K11717	sufS	cysteine desulfurase 
+MRS001828	_	_	ABC transporter permease 
+MRS001829	K09013	sufC	Fe-S cluster assembly ATPase SufC 
+MRS001830	K04068	nrdG	anaerobic ribonucleoside-triphosphate reductase activating protein 
+MRS001831	K21636	nrdD	anaerobic ribonucleoside-triphosphate reductase 
+MRS001832	_	_	metal ion transporter, metal ion (Mn2+/Fe2+) transporter (Nramp) family 
+MRS001833	_	_	alpha/beta hydrolase 
+MRS001834	_	_	hypothetical protein HMPREF0877_0591 
+MRS001835	_	_	transposase 
+MRS001836	_	_	amino acid permease 
+MRS001837	_	_	hypothetical protein HMPREF0877_0594 
+MRS001838	_	_	NADP-dependent oxidoreductase 
+MRS001839	K01095	pgpA	phosphatidylglycerophosphatase A 
+MRS001840	_	_	TetR/AcrR family transcriptional regulator 
+MRS001841	K25150	narA	ABC transporter ATP-binding protein 
+MRS001842	K25149	narB	hypothetical protein HMPREF0877_0599 
+MRS001843	_	_	aquaporin family protein 
+MRS001844	_	_	hypothetical protein FKV77_01875 
+MRS001845	_	_	NAD(P)H-hydrate epimerase 
+MRS001846	_	_	FAD/NAD(P)-binding protein 
+MRS001847	_	_	transporter, major facilitator family protein 
+MRS001848	K03502	umuC	ImpB/MucB/SamB family protein 
+MRS001849	_	_	hypothetical protein HMPREF0877_0606 
+MRS001850	K03294	TC.APA	amino acid permease 
+MRS001851	_	_	acetyltransferase 
+MRS001852	K11041	eta	C4-dicarboxylate transporter/malic acid transport protein 
+MRS001853	_	_	transcriptional regulator, LysR family 
+MRS001854	_	_	exonuclease 
+MRS001855	_	_	putative sulfate exporter family transporter 
+MRS001856	_	_	dihydrouridine synthase (Dus) 
+MRS001857	_	_	NAD-dependent succinate-semialdehyde dehydrogenase 
+MRS001858	K07058	K07058	YihY family protein 
+MRS001859	K03366	butA, budC	2,3-butanediol dehydrogenase, S-alcohol forming,(R)-acetoin-specific / Acetoin (diacetyl) reductase 
+MRS001860	_	_	bacteriocin 
+MRS001861	_	_	hypothetical protein GA0061074_102138 
+MRS001862	K07707	agrA, blpR, fsrA	LytTR family transcriptional regulator 
+MRS001863	_	_	hypothetical protein FKV77_01785 
+MRS001864	_	_	hypothetical protein HMPREF0877_0620 
+MRS001865	_	_	amino acid permease 
+MRS001866	_	_	hypothetical protein HMPREF0877_0622 
+MRS001867	K01919	gshA	glutamate-cysteine ligase 
+MRS001868	K03548	perM	hypothetical protein HMPREF0877_0624 
+MRS001869	_	_	putative 1,4-dihydroxy-2-naphthoate octaprenyltransferase 
+MRS001870	K01512	acyP	acylphosphatase 
+MRS001871	K02030	ABC.PA.S	ABC transporter, substrate-binding protein, family 3 
+MRS001872	K02029	ABC.PA.P	ABC transporter, permease protein 
+MRS001873	_	_	ABC transporter, ATP-binding protein 
+MRS001874	_	_	DUF1345 domain-containing protein 
+MRS001875	_	_	_
+MRS001876	K06221	dkgA	oxidoreductase, aldo/keto reductase family protein 
+MRS001877	_	_	TetR/AcrR family transcriptional regulator 
+MRS001878	K03366	butA, budC	diacetyl reductase 
+MRS001879	_	_	hypothetical protein WTH01_01420 
+MRS001880	_	_	hypothetical protein WTH01_01430 
+MRS001881	_	_	hypothetical protein WTH01_01440 
+MRS001882	_	_	hypothetical protein HMPREF0877_0635 
+MRS001883	_	_	LytTr DNA-binding domain protein 
+MRS001884	_	_	L-2-hydroxyisocaproate dehydrogenase 
+MRS001885	K00841	patA	putative aromatic-amino-acid transaminase 
+MRS001886	_	_	putative glycolate oxidase, subunit GlcD 
+MRS001887	K16785	ecfT	cobalt transport protein 
+MRS001888	K01552	ecfA	ABC transporter, ATP-binding protein 
+MRS001889	K16924	mtsT	hypothetical protein HMPREF0877_0642 
+MRS001890	_	_	_
+MRS001891	K03215	rumA	23S rRNA (uracil-5-)-methyltransferase RumA 
+MRS001892	K07816	E2.7.6.5	RelA/SpoT domain protein 
+MRS001893	K07335	bmpA, bmpB, tmpC	BMP family ABC transporter substrate-binding protein 
+MRS001894	K01951	guaA, GMPS	GMP synthase (glutamine-hydrolyzing) domain protein 
+MRS001895	K00147	proA	glutamate-5-semialdehyde dehydrogenase 
+MRS001896	K00931	proB	glutamate 5-kinase 
+MRS001897	K01753	dsdA	D-serine ammonia-lyase 
+MRS001898	K02532	lacY	MFS transporter 
+MRS001899	_	_	glycosyl hydrolase, family 43 
+MRS001900	_	_	transcriptional regulator, ArsR family 
+MRS001901	_	_	hypothetical protein HMPREF0877_0659 
+MRS001902	_	_	glycosyltransferase, group 2 family protein 
+MRS001903	_	_	glycosyltransferase, group 2 family protein 
+MRS001904	_	_	PAP2 family protein 
+MRS001905	K03975	dedA	cytochrome O ubiquinol oxidase 
+MRS001906	_	_	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein 
+MRS001907	K02483	K02483	response regulator receiver domain protein 
+MRS001908	_	_	Matrixin 
+MRS001909	_	_	SDR family oxidoreductase 
+MRS001910	K21744	tipA	TipAS antibiotic-recognition domain protein 
+MRS001911	K08369	ydjE	MFS transporter 
+MRS001912	K07105	K07105	transcription repressor NadR 
+MRS001913	K10530	lctO	dehydrogenase, FMN-dependent 
+MRS001914	_	_	hypothetical protein FKV78_01780 
+MRS001915	K00549	metE	methionine synthase, vitamin-B12 independent 
+MRS001916	_	_	ABC transporter, ATP-binding protein 
+MRS001917	_	_	ABC transporter permease 
+MRS001918	_	_	TetR/AcrR family transcriptional regulator 
+MRS001919	_	_	1,4-beta-N-acetylmuramidase 
+MRS001920	_	_	putative permease 
+MRS001921	K01487	guaD, GDA	guanine deaminase 
+MRS001922	K03523	bioY	BioY family protein 
+MRS001923	K03524	birA	biotin--
+MRS001924	_	_	transposase 
+MRS001925	K07497	K07497	IS3 family transposase 
+MRS001926	_	_	isochorismatase family protein 
+MRS001927	_	_	hypothetical protein FGL75_03250 
+MRS001928	K16209	lacS, galP, rafP	MFS transporter 
+MRS001929	_	_	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain 
+MRS001930	_	_	SDR family oxidoreductase 
+MRS001931	K24707	E2.7.1.16	hypothetical protein EFA59_09045 
+MRS001932	K01788	nanE	N-acetylmannosamine-6-phosphate 2-epimerase 
+MRS001933	_	_	Inosine-uridine preferring nucleoside hydrolase 
+MRS001934	K02348	elaA	acetyltransferase, GNAT family 
+MRS001935	_	_	hypothetical protein FKV77_01470 
+MRS001936	K00077	panE, apbA	2-dehydropantoate 2-reductase 
+MRS001937	_	_	oxidoreductase, aldo/keto reductase family protein 
+MRS001938	K11051	cylB	multidrug/hemolysin transport system permease protein 
+MRS001939	K11050	cylA	ABC transporter ATP-binding protein 
+MRS001940	K16211	malY, malT	transporter, major facilitator family protein 
+MRS001941	_	_	LacI family transcriptional regulator 
+MRS001942	_	_	DUF3021 domain-containing protein 
+MRS001943	_	_	_
+MRS001944	_	_	_
+MRS001945	_	_	_
+MRS001946	K00018	hprA	4-phosphoerythronate dehydrogenase 
+MRS001947	_	_	_
+MRS001948	K05786	rarD	protein RarD 
+MRS001949	_	_	hypothetical protein HMPREF0877_0697 
+MRS001950	_	_	YbhB/YbcL family Raf kinase inhibitor-like protein 
+MRS001951	K03778	ldhA	4-phosphoerythronate dehydrogenase 
+MRS001952	K00841	patA	aminotransferase, class I/II 
+MRS001953	K00661	maa	sugar O-acetyltransferase 
+MRS001954	K00661	maa	sugar O-acetyltransferase 
+MRS001955	_	_	citrate transporter 
+MRS001956	_	_	hypothetical protein HMPREF0877_0704 
+MRS001957	_	_	APC family permease 
+MRS001958	_	_	TetR family transcriptional regulator 
+MRS001959	_	_	phage infection protein 
+MRS001960	_	_	snare associated golgi protein 
+MRS001961	_	_	triosephosphate isomerase 
+MRS001962	K00058	serA, PHGDH	hydroxyacid dehydrogenase 
+MRS001963	K01785	galM, GALM	galactose mutarotase 
+MRS001964	_	_	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme 
+MRS001965	K03778	ldhA	4-phosphoerythronate dehydrogenase 
+MRS001966	_	_	hypothetical protein HMPREF0877_0715 
+MRS001967	_	_	hypothetical protein HMPREF0877_0715 
+MRS001968	K06901	pbuG, azgA, ghxP, ghxQ, adeQ	NCS2 family permease 
+MRS001969	K01740	metY	O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase 
+MRS001970	K00651	metA	homoserine O-succinyltransferase 
+MRS001971	K07149	K07149	membrane protein 
+MRS001972	_	_	hypothetical protein DIS13_02615 
+MRS001973	_	_	ABC transporter ATP-binding protein 
+MRS001974	_	_	GntR family transcriptional regulator 
+MRS001975	K03469	rnhA, RNASEH1	ribonuclease HI 
+MRS001976	_	_	Cof-like hydrolase 
+MRS001977	K03498	trkH, trkG, ktrB, ktrD	Trk family potassium uptake protein 
+MRS001978	K00783	rlmH	rRNA large subunit m3Psi methyltransferase RlmH 
+MRS001979	K10530	lctO	putative L-lactate oxidase 
+MRS001980	_	_	formate/nitrite transporter 
+MRS001981	K00158	spxB, poxL	pyruvate oxidase 
+MRS001982	K03741	arsC	arsenate reductase (thioredoxin) 
+MRS001983	_	_	hypothetical protein WTH01_02210 
+MRS001984	_	_	hypothetical protein WTH01_02220 
+MRS001985	_	_	hypothetical protein FKV71_03110 
+MRS001986	_	_	LytTr DNA-binding domain protein 
+MRS001987	_	_	GNAT family acetyltransferase 
+MRS001988	K06998	phzF	phenazine biosynthesis protein, PhzF family 
+MRS001989	K00003	hom	homoserine dehydrogenase 
+MRS001990	_	_	Cys/Met metabolism PLP-dependent enzyme 
+MRS001991	K01760	metC	cystathionine beta-lyase MetC 
+MRS001992	K10009	tcyB, yecS	amino acid ABC transporter permease 
+MRS001993	_	_	amino acid ABC transporter ATP-binding protein 
+MRS001994	K02030	ABC.PA.S	ABC transporter, substrate-binding protein, family 3 
+MRS001995	_	_	transporter, dicarboxylate/amino acid:cation Na+/H+ symporter family protein 
+MRS001996	_	_	amidase, hydantoinase/carbamoylase family 
+MRS001997	K03149	thiG	thiazole synthase 
+MRS001998	_	_	thiamine biosynthesis protein ThiF 
+MRS001999	_	_	transposase 
+MRS002000	K07497	K07497	IS3 family transposase 
+MRS002001	K03154	thiS	thiamine biosynthesis protein ThiS 
+MRS002002	K08974	K08974	putative membrane protein 
+MRS002003	_	_	GNAT family N-acetyltransferase 
+MRS002004	_	_	hypothetical protein WTH01_02330 
+MRS002005	_	_	amino acid permease 
+MRS002006	K03499	trkA, ktrA, ktrC	TrkA family potassium uptake protein 
+MRS002007	_	_	hypothetical protein WTH01_02360 
+MRS002008	K25118	isdC	hypothetical protein WTH01_02370 
+MRS002009	K25113	htsA, isdE	periplasmic binding protein 
+MRS002010	_	_	iron ABC transporter permease 
+MRS002011	_	_	ABC transporter ATP-binding protein 
+MRS002012	_	_	hypothetical protein FKV78_01345 
+MRS002013	K01990	ABC-2.A	ABC transporter ATP-binding protein 
+MRS002014	K01992	ABC-2.P	ABC transporter permease 
+MRS002015	_	_	TetR/AcrR family transcriptional regulator 
+MRS002016	K02029	ABC.PA.P	amino acid ABC transporter permease 
+MRS002017	K02030	ABC.PA.S	transporter substrate-binding domain-containing protein 
+MRS002018	K16568	exoZ	acetyltransferase 
+MRS002019	_	_	acyltransferase 
+MRS002020	_	_	_
+MRS002021	_	_	hypothetical protein HMPREF0877_0772 
+MRS002022	_	_	hypothetical protein DWV05_02680
+MRS002023	K03100	lepB	signal peptidase I 
+MRS002024	K03217	yidC, spoIIIJ, OXA1, ccfA	membrane protein insertase YidC 
+MRS002025	K03536	rnpA	ribonuclease P protein component 
+MRS002026	_	_	transposase 
+MRS002027	K07484	K07484	insertion sequenceputative ATP-binding protein 
+MRS002028	K00864	glpK, GK	glycerol kinase 
+MRS002029	K00105	E1.1.3.21	glycerol 3-phosphate oxidase 
+MRS002030	_	_	triosephosphate isomerase 
+MRS002031	_	_	aquaporin Z 
+MRS002032	_	_	_
+MRS002033	K10254	ohyA, sph	hypothetical protein HMPREF0877_1824 
+MRS002034	_	_	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain protein 
+MRS002035	_	_	transporter, major facilitator family protein 
+MRS002036	K07497	K07497	IS3 family transposase 
+MRS002037	_	_	transposase 
+MRS002038	_	_	multidrug transporter 
+MRS002039	_	_	MFS transporter 
+MRS002040	_	_	copper-exporting ATPase 
+MRS002041	K02171	blaI	CopY/TcrY family copper transport repressor 
+MRS002042	_	_	hypothetical protein 
+MRS002043	_	_	hypothetical protein HMPREF0877_1449 
+MRS002044	_	_	site-specific integrase 
+MRS002045	_	_	prevent-host-death family protein 
+MRS002046	K19158	yoeB	Txe/YoeB family addiction module toxin 
+MRS002047	K15629	CYP152A	cytochrome P450 
+MRS002048	_	_	transposase 
+MRS002049	K07497	K07497	IS3 family transposase 
+MRS002050	_	_	transposase 
+MRS002051	K07497	K07497	IS3 family transposase 
+MRS002052	_	_	MerR family transcriptional regulator 
+MRS002053	_	_	hypothetical protein LKI_10361 
+MRS002054	_	_	hypothetical protein LKI_10356 
+MRS002055	_	_	RepB family plasmid replication initiator protein 
+MRS002056	_	_	_
+MRS002057	_	_	relaxase 
+MRS002058	_	_	Mobilization protein MobC 
+MRS002059	_	_	transposase 
+MRS002060	K07497	K07497	IS3 family transposase 
+MRS002061	K04086	clpL	ATP-dependent Clp protease ATP-binding subunit 
+MRS002062	_	_	NAD(P)-dependent oxidoreductase 
+MRS002063	_	_	NAD(P)-dependent oxidoreductase 
+MRS002064	_	_	hypothetical protein FGL75_09300 
+MRS002065	_	_	hypothetical protein 
+MRS002066	_	_	hypothetical protein WEIDD23_02019 
+MRS002067	_	_	_
+MRS002068	_	_	_
+MRS002069	_	_	hypothetical protein FGL75_09285 
+MRS002070	_	_	hypothetical protein FGL75_09280 
+MRS002071	_	_	ParA family protein 
+MRS002072	K14060	pinR	recombinase family protein 
+MRS002073	_	_	hypothetical protein CO680_03790 
+MRS002074	_	_	hypothetical protein HMPREF0877_1451 
+MRS002075	_	_	_
+MRS002076	_	_	hypothetical protein HMPREF0877_1450 
+MRS002077	_	_	Acetyltransferase (GNAT) domain-containing protein 
+MRS002078	_	_	replication protein RepB 
+MRS002079	_	_	Plasmid replication protein 
+MRS002080	_	_	hypothetical protein GA0061075_1313 
+MRS002081	_	_	_
+MRS002082	_	_	hypothetical protein DXA89_10495 
+MRS002083	_	_	hypothetical protein DXA89_10490 
+MRS002084	_	_	hypothetical protein LABALGLTS371_15640 
+MRS002085	_	_	TetR/AcrR family transcriptional regulator 
+MRS002086	_	_	ABC transporter permease 
+MRS002087	_	_	ABC transporter ATP-binding protein 
+MRS002088	K07729	K07729	XRE family transcriptional regulator 
+MRS002089	_	_	hypothetical protein GA0061075_1108 
+MRS002090	_	_	_
+MRS002091	_	_	DNA-binding transcriptional regulator, XRE-family HTH domain 
+MRS002092	_	_	hypothetical protein DWV05_02680
+MRS002093	_	_	_
+MRS002094	_	_	_
+MRS002095	_	_	hypothetical protein CO680_03790 
+MRS002096	_	_	hypothetical protein HMPREF0877_1451 
+MRS002097	_	_	_
+MRS002098	_	_	hypothetical protein HMPREF0877_1450 
+MRS002099	_	_	Acetyltransferase (GNAT) domain-containing protein 
+MRS002100	_	_	replication protein RepB 
+MRS002101	_	_	Plasmid replication protein 
+MRS002102	_	_	hypothetical protein GA0061075_1313 
+MRS002103	_	_	_
+MRS002104	_	_	hypothetical protein DXA89_10495 
+MRS002105	_	_	hypothetical protein DXA89_10490 
+MRS002106	_	_	hypothetical protein LABALGLTS371_15640 
+MRS002107	_	_	TetR/AcrR family transcriptional regulator 
+MRS002108	_	_	ABC transporter permease 
+MRS002109	_	_	ABC transporter ATP-binding protein 
+MRS002110	K07729	K07729	XRE family transcriptional regulator 
+MRS002111	_	_	hypothetical protein GA0061075_1108 
+MRS002112	_	_	_
+MRS002113	_	_	DNA-binding transcriptional regulator, XRE-family HTH domain 
+MRS002114	_	_	hypothetical protein DWV05_02680
+MRS002115	_	_	_
+MRS002116	_	_	_
+MRS002117	K06216	rbsU	putative ribose transporter RbsU 
+MRS002118	K01807	rpiA	ribose-5-phosphate isomerase a 1 
+MRS002119	_	_	helix-turn-helix domain-containing protein 
+MRS002120	K07497	K07497	IS3 family transposase 
+MRS002121	_	_	hypothetical protein TKO01_00620 
+MRS002122	_	_	hypothetical protein
+MRS002123	_	_	hypothetical protein SAMN05660469_0486 
+MRS002124	_	_	hypothetical protein LABALGLTS371_15640 
+MRS002125	_	_	hypothetical protein D8H99_24635 
+MRS002126	K07473	dinJ	hypothetical protein FD28_GL001968 
+MRS002127	K19157	yafQ	type II toxin-antitoxin system YafQ family toxin 
+MRS002128	_	_	MobC mobilization protein 
+MRS002129	_	_	hypothetical protein LBR02_20580 
+MRS002130	_	_	_
+MRS002131	_	_	hypothetical protein C6P08_11365 
+MRS002132	K07171	mazF, ndoA, chpA	type II toxin-antitoxin system PemK/MazF family toxin 
+MRS002133	_	_	hypothetical protein 
+MRS002134	_	_	hypothetical protein HMPREF0877_1453 
+MRS002135	_	_	hypothetical protein LPA07_31190 
+MRS002136	K00852	rbsK, RBKS	ribokinase 
+MRS002137	K06726	rbsD	D-ribose pyranase 
