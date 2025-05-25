@@ -6,3 +6,5 @@ This directory includes:
 - Upregulated genes from transcriptomic data  
 - The generated metabolic network file: `wp_network.txt`  
 - The resulting metabolic gene clusters: `wp_cluster.txt`  
+
+In the metabolic gene cluster file, an entry like “115.0399-H” represents a negative ion mode, where the actual neutral mass should be calculated as “115.0399 + 1.007825”, with 1.007825 being the exact molecular weight of H⁺ (proton).
