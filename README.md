@@ -103,7 +103,15 @@ Resource usage will vary depending on input dataset size.
    This will generate `wp_cluster.txt` with predicted gene clusters associated with metabolite pathways.
 
 ---
+### Expected Runtime (Linux Server)
 
+- **Weissella paramesenteroides**:
+  - Due to simpler metabolite profiles (fewer metabolites and predominantly single adduct ions), the pipeline typically completes in approximately **5–10 minutes** on a Linux server (recommended configuration: 8+ CPU cores, ≥64 GB RAM).
+
+- **Other bacterial strains**:
+  - Strains with more complex metabolomic profiles and diverse adduct ions typically require **several hours (2–6 hours)** of runtime on a Linux server with similar hardware configurations, depending on the dataset complexity and server load.
+
+---
 ## License
 
 This project is open-source and available under the MIT License.
