@@ -29,7 +29,7 @@ In the metabolic gene cluster file, an entry like “273.0633+NH4” represents 
    python network_construct_adduct.py \
        --start_weight 175.0636542 \
        --end_weight 204.0905 \
-       central.txt mz_filter.txt all_reaction.xls adduct_file.txt --output bh_cluster.txt
+       central.txt mz_filter.txt all_reaction.xls adduct_file.txt --output bh_network.txt
    ```
 ---
 
@@ -39,7 +39,7 @@ In the metabolic gene cluster file, an entry like “273.0633+NH4” represents 
 
    ```bash
    python find_cluster_terminal.py \
-       --network bh_cluster.txt \
+       --network bh_network.txt \
        --reaction all_reaction.xls \
        --kegg bh.kegg \
        --gene_list gene_list.txt \
