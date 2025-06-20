@@ -66,7 +66,7 @@ Resource usage will vary depending on input dataset size.
        --end_weight 117.079 \
        central.txt mz_filter.txt all_reaction.xls adduct_file.txt --output wp_network.txt
    ```
-- start_weight and end_weight are the start and end m/z values of the reaction, both drawn from the central m/z values listed in central.txt.
+- start_weight and end_weight represent the starting and ending m/z values of the pathway, with start_weight derived from the central m/z values listed in central.txt.
 ---
 
 ### Step 2: Map Metabolic Network to Gene Clusters
