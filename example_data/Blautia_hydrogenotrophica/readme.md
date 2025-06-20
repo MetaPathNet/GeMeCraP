@@ -45,7 +45,7 @@ In the metabolic gene cluster file, an entry like “273.0633+NH4” represents 
        --gene_list gene_list.txt \
        --output bh_cluster.txt
    ```
-    Since the genome of Blautia hydrogenotrophica was assembled in-house and annotated using KEGG, the gene names fully conform to the format required for cluster      identification (e.g., contig_2_1553, contig_2_1554, etc.), allowing this step to be performed directly.
+    Since the genome of *Blautia hydrogenotrophica* was assembled in-house and annotated using KEGG, the gene names fully conform to the format required for cluster identification (e.g., contig_2_1553, contig_2_1554, etc.), allowing this step to be performed directly.
    
    This will generate `bh_cluster.txt` with predicted gene clusters associated with metabolite pathways.
 
