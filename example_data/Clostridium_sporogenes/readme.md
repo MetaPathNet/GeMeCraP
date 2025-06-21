@@ -21,19 +21,21 @@ In the metabolic gene cluster file, entries like `188.0707+H` represent positive
    ```bash
    python grouped_metabolites.py mz.txt
    ```
-
-   This generates a grouped list of similar `mz` values. Extract the first column for downstream use:
-
+  
    ```bash
    python grouped_metabolites.py mz.txt | awk '{print $1}' > mz_filter.txt
    ```
-2. **Construct the metabolite network**
+   Some metabolites were confirmed to be in the positive ion mode. After calculating their accurate m/z values, they were incorporated into the central.txt file for subsequent clustering analysis.
+   ```bash
+   python grouped_metabolites.py central.txt | awk '{print $1}' > central_filter.txt
+   ```
+3. **Construct the metabolite network**
 
    ```bash
    python network_construct_adduct.py \
        --start_weight 189.0789 \
        --end_weight 203.0577 \
-       central.txt mz_filter.txt all_reaction.xls adduct_file.txt --output cs_network.txt
+       central_filter.txt mz_filter.txt all_reaction.xls adduct_file.txt --output cs_network.txt
    ```
 ---
 
