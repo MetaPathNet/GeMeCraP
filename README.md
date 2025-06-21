@@ -58,6 +58,7 @@ Resource usage will vary depending on input dataset size.
    ```bash
    python grouped_metabolites.py mz.txt | awk '{print $1}' > mz_filter.txt
    ```
+   - The purpose of clustering is to group metabolites with similar m/z values but different retention times, in order to reduce the complexity of the network. Therefore, if the central file includes retention time information, it is also feasible to perform clustering.
 3. **Construct the metabolite network**
 
    ```bash
