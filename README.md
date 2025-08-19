@@ -1,8 +1,8 @@
-# GeMeCraP: Gene-Metabolite Cross-Referencing Assignment to Pathway
+# GeMeCRA: Gene-Metabolite Cross-Referencing Assignment to Pathway
 
-**GeMeCraP** (Gene-Metabolite Cross-Referencing Assignment to Pathway) is a novel computational framework designed to enable unambiguous, de novo elucidation of complete microbial metabolic pathways.
+**GeMeCRA** (Gene-Metabolite Cross-Referencing Assignment) is a novel computational framework designed to enable unambiguous, de novo elucidation of complete microbial metabolic pathways.
 
-The gut microbiota produces hundreds of small-molecule metabolites that act as crucial signals for host-microbe interactions. While there is growing interest in harnessing these microbial metabolites for next-generation therapies, the biosynthetic pathways for many remain poorly characterized. Traditional approaches rely heavily on comparative genomics to identify genes and enzymes responsible for specific metabolite production. GeMeCraP offers an integrative, gene-metabolite network-based method to fill this gap.
+The gut microbiota produces hundreds of small-molecule metabolites that act as crucial signals for host-microbe interactions. While there is growing interest in harnessing these microbial metabolites for next-generation therapies, the biosynthetic pathways for many remain poorly characterized. Traditional approaches rely heavily on comparative genomics to identify genes and enzymes responsible for specific metabolite production. GeMeCRA offers an integrative, gene-metabolite network-based method to fill this gap.
 
 ---
 
@@ -50,13 +50,15 @@ Resource usage will vary depending on input dataset size.
 2. **Group the `mz` values from the metabolomics**
 
    ```bash
-   python grouped_metabolites.py mz.txt
+   python grouped_metabolites.py central.txt > central_group.txt  #If the file does not contain retention time and only includes values, this step will be skipped.
+   python grouped_metabolites.py mz.txt > mz_group.txt
    ```
 
    This generates a grouped list of similar `mz` values. Extract the first column for downstream use:
 
    ```bash
-   python grouped_metabolites.py mz.txt | awk '{print $1}' > mz_filter.txt
+   awk '{print $1}' central_group.txt >central_filter.txt
+   awk '{print $1}' mz_group.txt > mz_filter.txt
    ```
    - The purpose of clustering is to group metabolites with similar m/z values but different retention times, in order to reduce the complexity of the network. Therefore, if the central file includes retention time information, it is also feasible to perform clustering.
 3. **Construct the metabolite network**
@@ -72,7 +74,7 @@ Resource usage will vary depending on input dataset size.
 
 ### Step 2: Map Metabolic Network to Gene Clusters
 
-1. **Standardize gene names based on genome annotation**
+1. **Standardize gene names based on genome annotation （optional）**
 
    Gene clusters are identified based on gene proximity. By default, genes on the same contig (e.g., `contig_1`, `contig_2`) are considered neighbors, allowing for up to 1 intervening genes. If the gene annotations use alternative naming (e.g., `MRS000002`), you can reformat them as follows:
 
@@ -80,7 +82,7 @@ Resource usage will vary depending on input dataset size.
    python extract_protein_info.py wp.gff wp_gene_start_end.txt
    ```
 
-2. **Update KEGG annotations with new gene names**
+2. **Update KEGG annotations with new gene names (optional)**
 
    ```bash
    python update_kegg_annotation.py wp_gene_start_end.txt wp.kegg wp_update.kegg
@@ -102,6 +104,27 @@ Resource usage will vary depending on input dataset size.
    ```
 
    This will generate `wp_cluster.txt` with predicted gene clusters associated with metabolite pathways.
+
+5. **Perform clustering on the generated clusters (optional)**
+
+   ```bash
+   python dedup_cluster.py \
+       wp_cluster.txt \
+       adduct_file.txt \
+       -o wp_cluster_dedup.txt
+   ```
+   This step is intended to reduce redundant cluster outputs.
+
+6. **checking shared MS/MS fragments (optional)**
+
+   ```bash
+   python cluster_MSMS.py \
+       --cluster wp_cluster_dedup.txt \
+       --central central_group.txt \
+       --mz mz_group.txt \
+       --msms MSMS.msp
+   ```
+   This step will show the shared MS/MS fragment information, with fragments shared by adjacent metabolites shown in [ ].
 
 ---
 ### Expected Runtime (Linux Server)
