@@ -4,7 +4,8 @@ This directory includes:
 - Gene annotation information  
 - Gene name revised: `gene_rename.txt`
 - Upregulated genes from transcriptomic data: `gene_list.txt`  
-- Metabolic gene clusters: `cs_cluster.txt`  
+- Metabolic gene clusters: `cs_cluster.txt`
+- In central.txt, metabolites ending with m/z indicate central-mass metabolites identified under different ionization modes (positive and negative). This has the same meaning as those ending with n.
 
 The metabolic network file has not been uploaded due to its large size.
 
