@@ -15,21 +15,23 @@ In the metabolic gene cluster file, an entry like “273.0633+NH4” represents 
 1. **Group the `mz` values from the metabolomics**
 
    ```bash
-   python grouped_metabolites.py mz.txt
+   python grouped_metabolites.py central.txt > central_group.txt
+   python grouped_metabolites.py mz.txt > mz_group.txt
    ```
 
    This generates a grouped list of similar `mz` values. Extract the first column for downstream use:
 
    ```bash
-   python grouped_metabolites.py mz.txt | awk '{print $1}' > mz_filter.txt
+   awk '{print $1}' central_group.txt >central_filter.txt
+   awk '{print $1}' mz_group.txt > mz_filter.txt
    ```
 2. **Construct the metabolite network**
 
    ```bash
    python network_construct_adduct.py \
-       --start_weight 175.0636542 \
-       --end_weight 204.0905 \
-       central.txt mz_filter.txt all_reaction.xls adduct_file.txt --output bh_network.txt
+       --start_weight 175.0637 \
+       --end_weight 204.0898 \
+       central_filter.txt mz_filter.txt all_reaction.xls adduct_file.txt --output bh_network.txt
    ```
 ---
 
@@ -49,4 +51,14 @@ In the metabolic gene cluster file, an entry like “273.0633+NH4” represents 
    
    This will generate `bh_cluster.txt` with predicted gene clusters associated with metabolite pathways.
 
+2. **checking shared MS/MS fragments**
+
+   ```bash
+   python cluster_MSMS.py \
+       --cluster bh_cluster.txt \
+       --central central_group.txt \
+       --mz mz_group.txt \
+       --msms MSMS.msp
+   ```
+    This step will print on screen the shared fragment information of adjacent metabolites.
 ---
